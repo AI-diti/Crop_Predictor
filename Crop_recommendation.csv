@@ -1,0 +1,2239 @@
+state,district,commodity,arrival_date,modal_price
+Andaman and Nicobar,South Andaman,Amaranthus,04-03-19,7000
+Kerala,Ernakulam,Amaranthus,04-03-19,1800
+Kerala,Kasargod,Amaranthus,04-03-19,1550
+Kerala,Kollam,Amaranthus,04-03-19,4600
+Kerala,Malappuram,Amaranthus,04-03-19,1800
+Kerala,Thirssur,Amaranthus,04-03-19,1700
+Kerala,Kasargod,Amaranthus,04-03-19,2900
+Kerala,Kollam,Amaranthus,04-03-19,1400
+Kerala,Thiruvananthapuram,Amaranthus,04-03-19,3500
+Kerala,Malappuram,Amla(Nelli Kai),04-03-19,3800
+Kerala,Alappuzha,Amphophalus,04-03-19,2400
+Kerala,Alappuzha,Amphophalus,04-03-19,3600
+Kerala,Ernakulam,Amphophalus,04-03-19,2500
+Kerala,Malappuram,Amphophalus,04-03-19,2300
+Kerala,Alappuzha,Amphophalus,04-03-19,1900
+Punjab,Jalandhar,Amphophalus,04-03-19,2000
+Haryana,Faridabad,Apple,04-03-19,5000
+Haryana,Mewat,Apple,04-03-19,8000
+Himachal Pradesh,Kangra,Apple,04-03-19,5000
+Himachal Pradesh,Kangra,Apple,04-03-19,7500
+Himachal Pradesh,Kangra,Apple,04-03-19,8000
+Kerala,Alappuzha,Apple,04-03-19,11000
+Madhya Pradesh,Dhar,Apple,04-03-19,2200
+Madhya Pradesh,Dhar,Apple,04-03-19,2000
+Maharashtra,Satara,Apple,04-03-19,8000
+Maharashtra,Kolhapur,Apple,04-03-19,10000
+Maharashtra,Pune,Apple,04-03-19,7800
+Punjab,Tarntaran,Apple,04-03-19,5500
+Punjab,Muktsar,Apple,04-03-19,5500
+Uttar Pradesh,Agra,Apple,04-03-19,5200
+Uttar Pradesh,Baghpat,Apple,04-03-19,4900
+Uttar Pradesh,Lakhimpur,Apple,04-03-19,6410
+Uttar Pradesh,Saharanpur,Apple,04-03-19,6475
+Uttar Pradesh,Agra,Apple,04-03-19,5850
+Uttar Pradesh,Agra,Apple,04-03-19,5550
+Uttar Pradesh,Agra,Apple,04-03-19,5550
+Uttar Pradesh,Ghaziabad,Apple,04-03-19,5850
+Uttar Pradesh,Kannuj,Apple,04-03-19,6500
+Uttar Pradesh,Mirzapur,Apple,04-03-19,6250
+Uttar Pradesh,Muradabad,Apple,04-03-19,4130
+Uttar Pradesh,Muzaffarnagar,Apple,04-03-19,5820
+Uttar Pradesh,Bahraich,Apple,04-03-19,5350
+Uttar Pradesh,Kanpur,Apple,04-03-19,5800
+Uttar Pradesh,Muzaffarnagar,Apple,04-03-19,2600
+Uttar Pradesh,Saharanpur,Apple,04-03-19,3950
+Uttar Pradesh,Saharanpur,Apple,04-03-19,4900
+Uttar Pradesh,Bhadohi(Sant Ravi Nagar),Apple,04-03-19,3500
+Uttrakhand,Dehradoon,Apple,04-03-19,3050
+Assam,Sonitpur,Arecanut(Betelnut/Supari),04-03-19,2200
+Goa,North Goa,Arecanut(Betelnut/Supari),04-03-19,20500
+Goa,North Goa,Arecanut(Betelnut/Supari),04-03-19,22250
+Goa,North Goa,Arecanut(Betelnut/Supari),04-03-19,19500
+Kerala,Kannur,Arecanut(Betelnut/Supari),04-03-19,19750
+Kerala,Kasargod,Arecanut(Betelnut/Supari),04-03-19,21500
+Kerala,Kasargod,Arecanut(Betelnut/Supari),04-03-19,21750
+Meghalaya,East Khasi Hills,Arecanut(Betelnut/Supari),04-03-19,13500
+Nagaland,Mokokchung,Arecanut(Betelnut/Supari),04-03-19,1500
+Assam,Sonitpur,Arhar (Tur/Red Gram)(Whole),04-03-19,5850
+Gujarat,Panchmahals,Arhar (Tur/Red Gram)(Whole),04-03-19,4850
+Maharashtra,Nagpur,Arhar (Tur/Red Gram)(Whole),04-03-19,4860
+Maharashtra,Nanded,Arhar (Tur/Red Gram)(Whole),04-03-19,4000
+Uttar Pradesh,Chitrakut,Arhar (Tur/Red Gram)(Whole),04-03-19,4475
+West Bengal,Burdwan,Arhar (Tur/Red Gram)(Whole),04-03-19,6400
+Uttar Pradesh,Ghaziabad,Arhar Dal(Tur Dal),04-03-19,6080
+Uttar Pradesh,Kannuj,Arhar Dal(Tur Dal),04-03-19,6800
+Uttar Pradesh,Lakhimpur,Arhar Dal(Tur Dal),04-03-19,6380
+Uttar Pradesh,Mau(Maunathbhanjan),Arhar Dal(Tur Dal),04-03-19,6200
+Uttar Pradesh,Mirzapur,Arhar Dal(Tur Dal),04-03-19,6875
+Uttar Pradesh,Sonbhadra,Arhar Dal(Tur Dal),04-03-19,6715
+West Bengal,Puruliya,Arhar Dal(Tur Dal),04-03-19,6000
+Kerala,Alappuzha,Ashgourd,04-03-19,1100
+Kerala,Alappuzha,Ashgourd,04-03-19,1200
+Kerala,Alappuzha,Ashgourd,04-03-19,1100
+Kerala,Ernakulam,Ashgourd,04-03-19,1800
+Kerala,Kollam,Ashgourd,04-03-19,5700
+Kerala,Kottayam,Ashgourd,04-03-19,1400
+Kerala,Malappuram,Ashgourd,04-03-19,1300
+Kerala,Thirssur,Ashgourd,04-03-19,1900
+Kerala,Thirssur,Ashgourd,04-03-19,2200
+Kerala,Thirssur,Ashgourd,04-03-19,850
+Kerala,Kasargod,Ashgourd,04-03-19,2700
+Gujarat,Anand,Bajra(Pearl Millet/Cumbu),04-03-19,2080
+Gujarat,Panchmahals,Bajra(Pearl Millet/Cumbu),04-03-19,1800
+Gujarat,Anand,Bajra(Pearl Millet/Cumbu),04-03-19,2015
+Rajasthan,Sikar,Bajra(Pearl Millet/Cumbu),04-03-19,1812
+Rajasthan,Tonk,Bajra(Pearl Millet/Cumbu),04-03-19,1740
+Uttar Pradesh,Agra,Bajra(Pearl Millet/Cumbu),04-03-19,1850
+Uttar Pradesh,Aligarh,Bajra(Pearl Millet/Cumbu),04-03-19,1840
+Uttar Pradesh,Bulandshahar,Bajra(Pearl Millet/Cumbu),04-03-19,1590
+Uttar Pradesh,Etawah,Bajra(Pearl Millet/Cumbu),04-03-19,1650
+Uttar Pradesh,Agra,Bajra(Pearl Millet/Cumbu),04-03-19,1730
+Uttar Pradesh,Agra,Bajra(Pearl Millet/Cumbu),04-03-19,1780
+Uttar Pradesh,Agra,Bajra(Pearl Millet/Cumbu),04-03-19,1730
+Uttar Pradesh,Agra,Bajra(Pearl Millet/Cumbu),04-03-19,1760
+Uttar Pradesh,Agra,Bajra(Pearl Millet/Cumbu),04-03-19,1730
+Uttar Pradesh,Etah,Bajra(Pearl Millet/Cumbu),04-03-19,1830
+Uttar Pradesh,Kanpur,Bajra(Pearl Millet/Cumbu),04-03-19,1400
+Haryana,Ambala,Banana,04-03-19,3000
+Haryana,Gurgaon,Banana,04-03-19,3000
+Haryana,Mewat,Banana,04-03-19,2000
+Himachal Pradesh,Kangra,Banana,04-03-19,2400
+Himachal Pradesh,Kullu,Banana,04-03-19,2370
+Kerala,Alappuzha,Banana,04-03-19,2100
+Kerala,Kollam,Banana,04-03-19,2400
+Kerala,Thiruvananthapuram,Banana,04-03-19,1800
+Kerala,Thiruvananthapuram,Banana,04-03-19,1500
+Kerala,Thiruvananthapuram,Banana,04-03-19,1200
+Kerala,Kollam,Banana,04-03-19,4800
+Kerala,Kollam,Banana,04-03-19,4500
+Kerala,Thiruvananthapuram,Banana,04-03-19,3900
+Kerala,Thiruvananthapuram,Banana,04-03-19,3600
+Kerala,Thiruvananthapuram,Banana,04-03-19,3500
+Kerala,Kollam,Banana,04-03-19,5900
+Kerala,Kollam,Banana,04-03-19,4500
+Kerala,Kottayam,Banana,04-03-19,3000
+Kerala,Thiruvananthapuram,Banana,04-03-19,3000
+Kerala,Thiruvananthapuram,Banana,04-03-19,2700
+Kerala,Thiruvananthapuram,Banana,04-03-19,3400
+Kerala,Alappuzha,Banana,04-03-19,2900
+Kerala,Kollam,Banana,04-03-19,2700
+Kerala,Kollam,Banana,04-03-19,2000
+Kerala,Kottayam,Banana,04-03-19,1800
+Kerala,Thiruvananthapuram,Banana,04-03-19,1700
+Kerala,Thiruvananthapuram,Banana,04-03-19,1400
+Kerala,Thiruvananthapuram,Banana,04-03-19,1100
+Kerala,Thiruvananthapuram,Banana,04-03-19,1400
+Kerala,Thirssur,Banana,04-03-19,6000
+Kerala,Alappuzha,Banana,04-03-19,4300
+Kerala,Kasargod,Banana,04-03-19,3050
+Kerala,Kollam,Banana,04-03-19,6100
+Kerala,Thiruvananthapuram,Banana,04-03-19,3900
+Kerala,Thiruvananthapuram,Banana,04-03-19,3600
+Kerala,Thiruvananthapuram,Banana,04-03-19,3200
+Kerala,Kasargod,Banana,04-03-19,2250
+Kerala,Kollam,Banana,04-03-19,4200
+Kerala,Kottayam,Banana,04-03-19,3800
+Kerala,Kottayam,Banana,04-03-19,4000
+Kerala,Thiruvananthapuram,Banana,04-03-19,3800
+Madhya Pradesh,Dhar,Banana,04-03-19,1200
+Madhya Pradesh,Dhar,Banana,04-03-19,800
+Maharashtra,Jalgaon,Banana,04-03-19,910
+Maharashtra,Satara,Banana,04-03-19,1000
+Maharashtra,Sholapur,Banana,04-03-19,475
+Manipur,Bishnupur,Banana,04-03-19,3500
+Manipur,Chandel,Banana,04-03-19,3000
+Manipur,Imphal East,Banana,04-03-19,3500
+Manipur,Imphal West,Banana,04-03-19,3500
+Manipur,Thoubal,Banana,04-03-19,3500
+Meghalaya,East Khasi Hills,Banana,04-03-19,4000
+Odisha,Gajapati,Banana,04-03-19,3000
+Odisha,Gajapati,Banana,04-03-19,3000
+Punjab,Tarntaran,Banana,04-03-19,900
+Punjab,Mansa,Banana,04-03-19,1500
+Punjab,Muktsar,Banana,04-03-19,1800
+Rajasthan,Jalore,Banana,04-03-19,1900
+Uttar Pradesh,Agra,Banana,04-03-19,1100
+Uttar Pradesh,Ghaziabad,Banana,04-03-19,1260
+Uttar Pradesh,Saharanpur,Banana,04-03-19,1165
+Uttar Pradesh,Saharanpur,Banana,04-03-19,1300
+Uttar Pradesh,Agra,Banana,04-03-19,1550
+Uttar Pradesh,Agra,Banana,04-03-19,950
+Uttar Pradesh,Agra,Banana,04-03-19,1530
+Uttar Pradesh,Agra,Banana,04-03-19,1540
+Uttar Pradesh,Bahraich,Banana,04-03-19,900
+Uttar Pradesh,Ballia,Banana,04-03-19,1750
+Uttar Pradesh,Bulandshahar,Banana,04-03-19,1190
+Uttar Pradesh,Kannuj,Banana,04-03-19,2200
+Uttar Pradesh,Kanpur,Banana,04-03-19,2800
+Uttar Pradesh,Lakhimpur,Banana,04-03-19,1785
+Uttar Pradesh,Saharanpur,Banana,04-03-19,1200
+Uttrakhand,Dehradoon,Banana,04-03-19,750
+Andaman and Nicobar,South Andaman,Banana - Green,04-03-19,5000
+Kerala,Alappuzha,Banana - Green,04-03-19,3800
+Kerala,Alappuzha,Banana - Green,04-03-19,4100
+Kerala,Ernakulam,Banana - Green,04-03-19,3500
+Kerala,Kasargod,Banana - Green,04-03-19,4600
+Kerala,Thirssur,Banana - Green,04-03-19,4300
+Kerala,Thirssur,Banana - Green,04-03-19,6200
+Kerala,Thirssur,Banana - Green,04-03-19,3600
+Kerala,Alappuzha,Banana - Green,04-03-19,4100
+Kerala,Kollam,Banana - Green,04-03-19,5800
+Kerala,Kottayam,Banana - Green,04-03-19,2100
+Nagaland,Mokokchung,Banana - Green,04-03-19,4200
+Odisha,Dhenkanal,Banana - Green,04-03-19,2800
+Odisha,Sundergarh,Banana - Green,04-03-19,4000
+Uttar Pradesh,Baghpat,Banana - Green,04-03-19,1030
+Uttar Pradesh,Etah,Banana - Green,04-03-19,900
+Uttar Pradesh,Lakhimpur,Banana - Green,04-03-19,670
+Uttar Pradesh,Muradabad,Banana - Green,04-03-19,360
+Uttar Pradesh,Muzaffarnagar,Banana - Green,04-03-19,1310
+Uttar Pradesh,Saharanpur,Banana - Green,04-03-19,1100
+Uttar Pradesh,Saharanpur,Banana - Green,04-03-19,1000
+Uttar Pradesh,Saharanpur,Banana - Green,04-03-19,700
+Uttar Pradesh,Agra,Barley (Jau),04-03-19,1820
+Uttar Pradesh,Agra,Barley (Jau),04-03-19,1830
+Uttar Pradesh,Agra,Barley (Jau),04-03-19,1720
+Uttar Pradesh,Agra,Barley (Jau),04-03-19,1800
+Uttar Pradesh,Agra,Barley (Jau),04-03-19,1850
+Uttar Pradesh,Kanpur,Barley (Jau),04-03-19,1400
+Uttar Pradesh,Muzaffarnagar,Barley (Jau),04-03-19,1940
+Uttar Pradesh,Sonbhadra,Barley (Jau),04-03-19,1700
+Karnataka,Bangalore,Beans,04-03-19,3600
+Karnataka,Kolar,Beans,04-03-19,3100
+Maharashtra,Pune,Beans,04-03-19,3500
+Maharashtra,Pune,Beans,04-03-19,3600
+Maharashtra,Satara,Beans,04-03-19,2500
+Odisha,Dhenkanal,Beans,04-03-19,2500
+Odisha,Mayurbhanja,Beans,04-03-19,2800
+Karnataka,Bangalore,Beetroot,04-03-19,1600
+Karnataka,Kolar,Beetroot,04-03-19,1400
+Kerala,Alappuzha,Beetroot,04-03-19,2000
+Kerala,Ernakulam,Beetroot,04-03-19,2200
+Kerala,Kollam,Beetroot,04-03-19,3200
+Kerala,Kottayam,Beetroot,04-03-19,2200
+Kerala,Malappuram,Beetroot,04-03-19,1900
+Kerala,Thirssur,Beetroot,04-03-19,2100
+Kerala,Thirssur,Beetroot,04-03-19,3000
+Kerala,Thirssur,Beetroot,04-03-19,2100
+Kerala,Kasargod,Beetroot,04-03-19,2600
+Maharashtra,Pune,Beetroot,04-03-19,1000
+Maharashtra,Pune,Beetroot,04-03-19,1400
+Manipur,Bishnupur,Bengal Gram Dal (Chana Dal),04-03-19,9600
+Manipur,Imphal West,Bengal Gram Dal (Chana Dal),04-03-19,8000
+Manipur,Thoubal,Bengal Gram Dal (Chana Dal),04-03-19,11000
+Uttar Pradesh,Mirzapur,Bengal Gram Dal (Chana Dal),04-03-19,5430
+Andhra Pradesh,Kurnool,Bengal Gram(Gram)(Whole),04-03-19,4600
+Maharashtra,Jalgaon,Bengal Gram(Gram)(Whole),04-03-19,4220
+Maharashtra,Nagpur,Bengal Gram(Gram)(Whole),04-03-19,3745
+Maharashtra,Nanded,Bengal Gram(Gram)(Whole),04-03-19,3651
+Rajasthan,Sikar,Bengal Gram(Gram)(Whole),04-03-19,3400
+Rajasthan,Kota,Bengal Gram(Gram)(Whole),04-03-19,3550
+Uttar Pradesh,Baghpat,Bengal Gram(Gram)(Whole),04-03-19,5100
+Uttar Pradesh,Chitrakut,Bengal Gram(Gram)(Whole),04-03-19,3875
+Uttar Pradesh,Ghaziabad,Bengal Gram(Gram)(Whole),04-03-19,5330
+Uttar Pradesh,Kannuj,Bengal Gram(Gram)(Whole),04-03-19,4600
+Uttar Pradesh,Mirzapur,Bengal Gram(Gram)(Whole),04-03-19,5010
+Uttar Pradesh,Sonbhadra,Bengal Gram(Gram)(Whole),04-03-19,5075
+Uttar Pradesh,Mahoba,Bengal Gram(Gram)(Whole),04-03-19,4050
+Haryana,Mewat,Ber(Zizyphus/Borehannu),04-03-19,1300
+Haryana,Ambala,Ber(Zizyphus/Borehannu),04-03-19,3000
+Himachal Pradesh,Kangra,Ber(Zizyphus/Borehannu),04-03-19,2500
+Uttar Pradesh,Muzaffarnagar,Ber(Zizyphus/Borehannu),04-03-19,1150
+Meghalaya,East Khasi Hills,Betal Leaves,04-03-19,26500
+Andaman and Nicobar,South Andaman,Bhindi(Ladies Finger),04-03-19,7000
+Gujarat,Surat,Bhindi(Ladies Finger),04-03-19,3755
+Gujarat,Surat,Bhindi(Ladies Finger),04-03-19,3755
+Gujarat,Vadodara(Baroda),Bhindi(Ladies Finger),04-03-19,3800
+Gujarat,Amreli,Bhindi(Ladies Finger),04-03-19,1550
+Gujarat,Bharuch,Bhindi(Ladies Finger),04-03-19,3425
+Haryana,Mewat,Bhindi(Ladies Finger),04-03-19,6000
+Himachal Pradesh,Kangra,Bhindi(Ladies Finger),04-03-19,4250
+Himachal Pradesh,Kangra,Bhindi(Ladies Finger),04-03-19,6500
+Himachal Pradesh,Kullu,Bhindi(Ladies Finger),04-03-19,5650
+Karnataka,Bangalore,Bhindi(Ladies Finger),04-03-19,3400
+Kerala,Alappuzha,Bhindi(Ladies Finger),04-03-19,4000
+Kerala,Alappuzha,Bhindi(Ladies Finger),04-03-19,3100
+Kerala,Kasargod,Bhindi(Ladies Finger),04-03-19,5550
+Kerala,Kollam,Bhindi(Ladies Finger),04-03-19,3800
+Kerala,Kollam,Bhindi(Ladies Finger),04-03-19,5000
+Kerala,Kottayam,Bhindi(Ladies Finger),04-03-19,2700
+Kerala,Malappuram,Bhindi(Ladies Finger),04-03-19,3200
+Kerala,Thirssur,Bhindi(Ladies Finger),04-03-19,2300
+Kerala,Thirssur,Bhindi(Ladies Finger),04-03-19,3200
+Kerala,Thirssur,Bhindi(Ladies Finger),04-03-19,2300
+Kerala,Kasargod,Bhindi(Ladies Finger),04-03-19,6500
+Kerala,Kollam,Bhindi(Ladies Finger),04-03-19,4200
+Madhya Pradesh,Badwani,Bhindi(Ladies Finger),04-03-19,750
+Madhya Pradesh,Jhabua,Bhindi(Ladies Finger),04-03-19,2000
+Maharashtra,Pune,Bhindi(Ladies Finger),04-03-19,2500
+Maharashtra,Pune,Bhindi(Ladies Finger),04-03-19,5000
+Maharashtra,Satara,Bhindi(Ladies Finger),04-03-19,4000
+Maharashtra,Sholapur,Bhindi(Ladies Finger),04-03-19,2800
+Odisha,Gajapati,Bhindi(Ladies Finger),04-03-19,3000
+Odisha,Sundergarh,Bhindi(Ladies Finger),04-03-19,4000
+Odisha,Dhenkanal,Bhindi(Ladies Finger),04-03-19,3800
+Odisha,Mayurbhanja,Bhindi(Ladies Finger),04-03-19,6500
+Punjab,Jalandhar,Bhindi(Ladies Finger),04-03-19,5000
+Punjab,Mansa,Bhindi(Ladies Finger),04-03-19,3500
+Rajasthan,Jalore,Bhindi(Ladies Finger),04-03-19,3900
+Uttar Pradesh,Agra,Bhindi(Ladies Finger),04-03-19,1820
+Uttar Pradesh,Agra,Bhindi(Ladies Finger),04-03-19,3400
+Uttar Pradesh,Agra,Bhindi(Ladies Finger),04-03-19,3350
+Uttar Pradesh,Bahraich,Bhindi(Ladies Finger),04-03-19,1150
+Uttar Pradesh,Bulandshahar,Bhindi(Ladies Finger),04-03-19,590
+Uttar Pradesh,Muzaffarnagar,Bhindi(Ladies Finger),04-03-19,1150
+West Bengal,Puruliya,Bhindi(Ladies Finger),04-03-19,3300
+Andaman and Nicobar,South Andaman,Bitter gourd,04-03-19,7000
+Assam,Darrang,Bitter gourd,04-03-19,6400
+Assam,Kamrup,Bitter gourd,04-03-19,5500
+Gujarat,Vadodara(Baroda),Bitter gourd,04-03-19,3800
+Gujarat,Valsad,Bitter gourd,04-03-19,5875
+Gujarat,Surat,Bitter gourd,04-03-19,5025
+Karnataka,Bangalore,Bitter gourd,04-03-19,3800
+Kerala,Alappuzha,Bitter gourd,04-03-19,4500
+Kerala,Alappuzha,Bitter gourd,04-03-19,4100
+Kerala,Ernakulam,Bitter gourd,04-03-19,4500
+Kerala,Kollam,Bitter gourd,04-03-19,6100
+Kerala,Kottayam,Bitter gourd,04-03-19,3400
+Kerala,Malappuram,Bitter gourd,04-03-19,3100
+Kerala,Thirssur,Bitter gourd,04-03-19,2700
+Kerala,Thirssur,Bitter gourd,04-03-19,4000
+Kerala,Thirssur,Bitter gourd,04-03-19,3600
+Kerala,Kasargod,Bitter gourd,04-03-19,5750
+Kerala,Kollam,Bitter gourd,04-03-19,9800
+Kerala,Thiruvananthapuram,Bitter gourd,04-03-19,5000
+Madhya Pradesh,Jhabua,Bitter gourd,04-03-19,1450
+Maharashtra,Pune,Bitter gourd,04-03-19,4000
+Maharashtra,Pune,Bitter gourd,04-03-19,5000
+Maharashtra,Satara,Bitter gourd,04-03-19,3700
+Maharashtra,Sholapur,Bitter gourd,04-03-19,3100
+Odisha,Dhenkanal,Bitter gourd,04-03-19,4200
+Odisha,Mayurbhanja,Bitter gourd,04-03-19,2800
+Odisha,Mayurbhanja,Bitter gourd,04-03-19,7500
+Tripura,Sepahijala,Bitter gourd,04-03-19,7000
+Tripura,Sepahijala,Bitter gourd,04-03-19,7000
+West Bengal,North 24 Parganas,Bitter gourd,04-03-19,6500
+West Bengal,Burdwan,Bitter gourd,04-03-19,5000
+West Bengal,Jalpaiguri,Bitter gourd,04-03-19,4900
+West Bengal,Sounth 24 Parganas,Bitter gourd,04-03-19,4000
+Assam,Dhubri,Black Gram (Urd Beans)(Whole),04-03-19,4400
+Odisha,Sundergarh,Black Gram (Urd Beans)(Whole),04-03-19,9000
+Odisha,Sundergarh,Black Gram (Urd Beans)(Whole),04-03-19,9000
+Rajasthan,Tonk,Black Gram (Urd Beans)(Whole),04-03-19,2700
+Tamil Nadu,Vellore,Black Gram (Urd Beans)(Whole),04-03-19,4715
+Tamil Nadu,Villupuram,Black Gram (Urd Beans)(Whole),04-03-19,4792
+Tamil Nadu,Villupuram,Black Gram (Urd Beans)(Whole),04-03-19,4870
+Tamil Nadu,Villupuram,Black Gram (Urd Beans)(Whole),04-03-19,4824
+Tamil Nadu,Villupuram,Black Gram (Urd Beans)(Whole),04-03-19,4866
+Tamil Nadu,Villupuram,Black Gram (Urd Beans)(Whole),04-03-19,4811
+Tamil Nadu,Villupuram,Black Gram (Urd Beans)(Whole),04-03-19,4802
+Tamil Nadu,Villupuram,Black Gram (Urd Beans)(Whole),04-03-19,4779
+Tamil Nadu,Villupuram,Black Gram (Urd Beans)(Whole),04-03-19,2619
+Tamil Nadu,Cuddalore,Black Gram (Urd Beans)(Whole),04-03-19,4789
+Tamil Nadu,Cuddalore,Black Gram (Urd Beans)(Whole),04-03-19,4706
+Uttar Pradesh,Jhansi,Black Gram (Urd Beans)(Whole),04-03-19,3600
+Uttar Pradesh,Mahoba,Black Gram (Urd Beans)(Whole),04-03-19,3750
+West Bengal,Burdwan,Black Gram (Urd Beans)(Whole),04-03-19,5900
+West Bengal,Burdwan,Black Gram (Urd Beans)(Whole),04-03-19,6100
+Uttar Pradesh,Ghaziabad,Black Gram Dal (Urd Dal),04-03-19,5500
+Uttar Pradesh,Kannuj,Black Gram Dal (Urd Dal),04-03-19,6500
+Uttar Pradesh,Mirzapur,Black Gram Dal (Urd Dal),04-03-19,6430
+Andaman and Nicobar,South Andaman,Black pepper,04-03-19,120000
+Kerala,Kannur,Black pepper,04-03-19,29250
+Andaman and Nicobar,South Andaman,Bottle gourd,04-03-19,3500
+Assam,Darrang,Bottle gourd,04-03-19,850
+Gujarat,Surat,Bottle gourd,04-03-19,1050
+Gujarat,Vadodara(Baroda),Bottle gourd,04-03-19,1750
+Gujarat,Valsad,Bottle gourd,04-03-19,1375
+Gujarat,Bharuch,Bottle gourd,04-03-19,1850
+Haryana,Gurgaon,Bottle gourd,04-03-19,2700
+Himachal Pradesh,Kangra,Bottle gourd,04-03-19,2250
+Himachal Pradesh,Kullu,Bottle gourd,04-03-19,2600
+Himachal Pradesh,Kangra,Bottle gourd,04-03-19,2800
+Himachal Pradesh,Kangra,Bottle gourd,04-03-19,3000
+Kerala,Alappuzha,Bottle gourd,04-03-19,1100
+Kerala,Kollam,Bottle gourd,04-03-19,1300
+Kerala,Malappuram,Bottle gourd,04-03-19,1700
+Kerala,Thirssur,Bottle gourd,04-03-19,2400
+Kerala,Kasargod,Bottle gourd,04-03-19,1800
+Madhya Pradesh,Badwani,Bottle gourd,04-03-19,700
+Madhya Pradesh,Jhabua,Bottle gourd,04-03-19,1700
+Maharashtra,Pune,Bottle gourd,04-03-19,1500
+Maharashtra,Pune,Bottle gourd,04-03-19,1500
+Maharashtra,Pune,Bottle gourd,04-03-19,2000
+Maharashtra,Satara,Bottle gourd,04-03-19,1000
+Rajasthan,Jalore,Bottle gourd,04-03-19,1100
+Uttar Pradesh,Agra,Bottle gourd,04-03-19,1000
+Uttar Pradesh,Agra,Bottle gourd,04-03-19,1550
+Uttar Pradesh,Agra,Bottle gourd,04-03-19,1000
+Uttar Pradesh,Agra,Bottle gourd,04-03-19,1000
+Uttar Pradesh,Agra,Bottle gourd,04-03-19,1000
+Uttar Pradesh,Bulandshahar,Bottle gourd,04-03-19,690
+Uttar Pradesh,Ghaziabad,Bottle gourd,04-03-19,1800
+Uttar Pradesh,Kanpur,Bottle gourd,04-03-19,900
+Uttar Pradesh,Lakhimpur,Bottle gourd,04-03-19,1050
+Uttar Pradesh,Mirzapur,Bottle gourd,04-03-19,980
+Uttar Pradesh,Muzaffarnagar,Bottle gourd,04-03-19,1280
+Uttar Pradesh,Muzaffarnagar,Bottle gourd,04-03-19,420
+Uttar Pradesh,Saharanpur,Bottle gourd,04-03-19,600
+Uttar Pradesh,Saharanpur,Bottle gourd,04-03-19,850
+Uttar Pradesh,Saharanpur,Bottle gourd,04-03-19,800
+Uttar Pradesh,Sonbhadra,Bottle gourd,04-03-19,885
+Andaman and Nicobar,South Andaman,Brinjal,04-03-19,7500
+Assam,Darrang,Brinjal,04-03-19,850
+Assam,Sonitpur,Brinjal,04-03-19,750
+Assam,Kamrup,Brinjal,04-03-19,1300
+Gujarat,Bharuch,Brinjal,04-03-19,650
+Gujarat,Amreli,Brinjal,04-03-19,1100
+Gujarat,Surat,Brinjal,04-03-19,1150
+Gujarat,Surat,Brinjal,04-03-19,1182
+Gujarat,Surat,Brinjal,04-03-19,1182
+Gujarat,Vadodara(Baroda),Brinjal,04-03-19,750
+Gujarat,Surat,Brinjal,04-03-19,650
+Himachal Pradesh,Kangra,Brinjal,04-03-19,1350
+Himachal Pradesh,Kangra,Brinjal,04-03-19,2500
+Himachal Pradesh,Kullu,Brinjal,04-03-19,2500
+Himachal Pradesh,Kangra,Brinjal,04-03-19,2500
+Karnataka,Bangalore,Brinjal,04-03-19,1300
+Kerala,Thiruvananthapuram,Brinjal,04-03-19,3000
+Kerala,Thiruvananthapuram,Brinjal,04-03-19,6000
+Kerala,Alappuzha,Brinjal,04-03-19,3500
+Kerala,Ernakulam,Brinjal,04-03-19,2200
+Kerala,Kollam,Brinjal,04-03-19,3500
+Kerala,Kottayam,Brinjal,04-03-19,2300
+Kerala,Malappuram,Brinjal,04-03-19,1900
+Kerala,Thirssur,Brinjal,04-03-19,1700
+Kerala,Thirssur,Brinjal,04-03-19,2500
+Kerala,Thirssur,Brinjal,04-03-19,1500
+Kerala,Kasargod,Brinjal,04-03-19,3600
+Madhya Pradesh,Badwani,Brinjal,04-03-19,700
+Madhya Pradesh,Jhabua,Brinjal,04-03-19,1600
+Maharashtra,Kolhapur,Brinjal,04-03-19,1800
+Maharashtra,Kolhapur,Brinjal,04-03-19,250
+Maharashtra,Pune,Brinjal,04-03-19,1500
+Maharashtra,Pune,Brinjal,04-03-19,1800
+Maharashtra,Pune,Brinjal,04-03-19,2600
+Maharashtra,Satara,Brinjal,04-03-19,800
+Maharashtra,Sholapur,Brinjal,04-03-19,2000
+Maharashtra,Sholapur,Brinjal,04-03-19,1300
+Odisha,Angul,Brinjal,04-03-19,500
+Odisha,Angul,Brinjal,04-03-19,500
+Odisha,Balasore,Brinjal,04-03-19,1200
+Odisha,Gajapati,Brinjal,04-03-19,1000
+Odisha,Ganjam,Brinjal,04-03-19,1500
+Odisha,Ganjam,Brinjal,04-03-19,3200
+Odisha,Mayurbhanja,Brinjal,04-03-19,700
+Odisha,Sundergarh,Brinjal,04-03-19,2000
+Odisha,Sundergarh,Brinjal,04-03-19,600
+Odisha,Dhenkanal,Brinjal,04-03-19,1000
+Odisha,Mayurbhanja,Brinjal,04-03-19,1400
+Punjab,Muktsar,Brinjal,04-03-19,1300
+Punjab,Gurdaspur,Brinjal,04-03-19,1450
+Punjab,Hoshiarpur,Brinjal,04-03-19,2000
+Punjab,Jalandhar,Brinjal,04-03-19,2000
+Punjab,Patiala,Brinjal,04-03-19,1500
+Punjab,Tarntaran,Brinjal,04-03-19,900
+Punjab,Gurdaspur,Brinjal,04-03-19,700
+Punjab,Mansa,Brinjal,04-03-19,1100
+Telangana,Ranga Reddy,Brinjal,04-03-19,300
+Tripura,Sepahijala,Brinjal,04-03-19,2000
+Tripura,Sepahijala,Brinjal,04-03-19,1500
+Uttar Pradesh,Agra,Brinjal,04-03-19,850
+Uttar Pradesh,Baghpat,Brinjal,04-03-19,750
+Uttar Pradesh,Etah,Brinjal,04-03-19,700
+Uttar Pradesh,Ghaziabad,Brinjal,04-03-19,970
+Uttar Pradesh,Kannuj,Brinjal,04-03-19,800
+Uttar Pradesh,Saharanpur,Brinjal,04-03-19,660
+Uttar Pradesh,Saharanpur,Brinjal,04-03-19,950
+Uttar Pradesh,Shahjahanpur,Brinjal,04-03-19,470
+Uttar Pradesh,Agra,Brinjal,04-03-19,850
+Uttar Pradesh,Agra,Brinjal,04-03-19,1050
+Uttar Pradesh,Agra,Brinjal,04-03-19,600
+Uttar Pradesh,Bulandshahar,Brinjal,04-03-19,445
+Uttar Pradesh,Gautam Budh Nagar,Brinjal,04-03-19,600
+Uttar Pradesh,Muradabad,Brinjal,04-03-19,460
+Uttar Pradesh,Agra,Brinjal,04-03-19,850
+Uttar Pradesh,Agra,Brinjal,04-03-19,850
+Uttar Pradesh,Aligarh,Brinjal,04-03-19,440
+Uttar Pradesh,Bahraich,Brinjal,04-03-19,500
+Uttar Pradesh,Bulandshahar,Brinjal,04-03-19,580
+Uttar Pradesh,Etawah,Brinjal,04-03-19,600
+Uttar Pradesh,Kanpur,Brinjal,04-03-19,1000
+Uttar Pradesh,Lakhimpur,Brinjal,04-03-19,960
+Uttar Pradesh,Mirzapur,Brinjal,04-03-19,820
+Uttar Pradesh,Muzaffarnagar,Brinjal,04-03-19,1030
+Uttar Pradesh,Muzaffarnagar,Brinjal,04-03-19,440
+Uttar Pradesh,Saharanpur,Brinjal,04-03-19,700
+Uttar Pradesh,Sonbhadra,Brinjal,04-03-19,785
+Uttar Pradesh,Baghpat,Brinjal,04-03-19,1200
+Uttar Pradesh,Saharanpur,Brinjal,04-03-19,500
+West Bengal,Bankura,Brinjal,04-03-19,500
+West Bengal,Nadia,Brinjal,04-03-19,1500
+West Bengal,Burdwan,Brinjal,04-03-19,1100
+West Bengal,Burdwan,Brinjal,04-03-19,800
+West Bengal,Burdwan,Brinjal,04-03-19,900
+West Bengal,Jalpaiguri,Brinjal,04-03-19,750
+West Bengal,North 24 Parganas,Brinjal,04-03-19,1600
+West Bengal,Puruliya,Brinjal,04-03-19,1300
+West Bengal,Puruliya,Brinjal,04-03-19,1200
+West Bengal,Sounth 24 Parganas,Brinjal,04-03-19,2250
+West Bengal,Burdwan,Brinjal,04-03-19,1200
+Odisha,Nowarangpur,Broken Rice,04-03-19,1200
+Andaman and Nicobar,South Andaman,Cabbage,04-03-19,6500
+Assam,Sonitpur,Cabbage,04-03-19,700
+Assam,Darrang,Cabbage,04-03-19,350
+Assam,Kamrup,Cabbage,04-03-19,500
+Gujarat,Surat,Cabbage,04-03-19,1100
+Gujarat,Surat,Cabbage,04-03-19,950
+Gujarat,Bharuch,Cabbage,04-03-19,925
+Haryana,Faridabad,Cabbage,04-03-19,450
+Haryana,Gurgaon,Cabbage,04-03-19,550
+Himachal Pradesh,Kangra,Cabbage,04-03-19,450
+Himachal Pradesh,Kullu,Cabbage,04-03-19,900
+Himachal Pradesh,Kangra,Cabbage,04-03-19,800
+Himachal Pradesh,Kangra,Cabbage,04-03-19,900
+Karnataka,Bangalore,Cabbage,04-03-19,1400
+Karnataka,Kolar,Cabbage,04-03-19,1100
+Kerala,Alappuzha,Cabbage,04-03-19,3200
+Kerala,Kollam,Cabbage,04-03-19,1600
+Kerala,Kottayam,Cabbage,04-03-19,2100
+Kerala,Malappuram,Cabbage,04-03-19,1300
+Kerala,Thirssur,Cabbage,04-03-19,2100
+Kerala,Thirssur,Cabbage,04-03-19,3000
+Kerala,Thirssur,Cabbage,04-03-19,2200
+Kerala,Kasargod,Cabbage,04-03-19,2500
+Madhya Pradesh,Jhabua,Cabbage,04-03-19,1400
+Madhya Pradesh,Narsinghpur,Cabbage,04-03-19,750
+Maharashtra,Kolhapur,Cabbage,04-03-19,1100
+Maharashtra,Kolhapur,Cabbage,04-03-19,200
+Maharashtra,Pune,Cabbage,04-03-19,800
+Maharashtra,Pune,Cabbage,04-03-19,800
+Maharashtra,Pune,Cabbage,04-03-19,1550
+Maharashtra,Satara,Cabbage,04-03-19,1000
+Manipur,Chandel,Cabbage,04-03-19,1000
+Manipur,Imphal West,Cabbage,04-03-19,1500
+Manipur,Bishnupur,Cabbage,04-03-19,1300
+Manipur,Imphal East,Cabbage,04-03-19,1500
+Manipur,Thoubal,Cabbage,04-03-19,1000
+Nagaland,Mokokchung,Cabbage,04-03-19,2300
+Odisha,Balasore,Cabbage,04-03-19,700
+Odisha,Balasore,Cabbage,04-03-19,550
+Odisha,Sundergarh,Cabbage,04-03-19,1000
+Odisha,Sundergarh,Cabbage,04-03-19,800
+Odisha,Mayurbhanja,Cabbage,04-03-19,600
+Odisha,Mayurbhanja,Cabbage,04-03-19,700
+Punjab,Hoshiarpur,Cabbage,04-03-19,500
+Punjab,Jalandhar,Cabbage,04-03-19,400
+Punjab,Jalandhar,Cabbage,04-03-19,300
+Punjab,Ludhiana,Cabbage,04-03-19,500
+Punjab,Muktsar,Cabbage,04-03-19,400
+Rajasthan,Jalore,Cabbage,04-03-19,900
+Telangana,Ranga Reddy,Cabbage,04-03-19,500
+Tripura,Sepahijala,Cabbage,04-03-19,900
+Tripura,Sepahijala,Cabbage,04-03-19,700
+Uttar Pradesh,Muradabad,Cabbage,04-03-19,260
+Uttar Pradesh,Agra,Cabbage,04-03-19,600
+Uttar Pradesh,Agra,Cabbage,04-03-19,450
+Uttar Pradesh,Agra,Cabbage,04-03-19,550
+Uttar Pradesh,Agra,Cabbage,04-03-19,640
+Uttar Pradesh,Agra,Cabbage,04-03-19,550
+Uttar Pradesh,Gautam Budh Nagar,Cabbage,04-03-19,500
+Uttar Pradesh,Ghaziabad,Cabbage,04-03-19,570
+Uttar Pradesh,Kannuj,Cabbage,04-03-19,470
+Uttar Pradesh,Kanpur,Cabbage,04-03-19,900
+Uttar Pradesh,Lakhimpur,Cabbage,04-03-19,700
+Uttar Pradesh,Saharanpur,Cabbage,04-03-19,520
+Uttar Pradesh,Saharanpur,Cabbage,04-03-19,450
+Uttar Pradesh,Saharanpur,Cabbage,04-03-19,450
+Uttar Pradesh,Saharanpur,Cabbage,04-03-19,400
+Uttrakhand,Dehradoon,Cabbage,04-03-19,400
+West Bengal,Jalpaiguri,Cabbage,04-03-19,500
+Gujarat,Amreli,Capsicum,04-03-19,1300
+Gujarat,Bharuch,Capsicum,04-03-19,2600
+Himachal Pradesh,Kangra,Capsicum,04-03-19,4250
+Himachal Pradesh,Kullu,Capsicum,04-03-19,5650
+Himachal Pradesh,Kangra,Capsicum,04-03-19,4800
+Himachal Pradesh,Kangra,Capsicum,04-03-19,4500
+Karnataka,Kolar,Capsicum,04-03-19,3800
+Kerala,Alappuzha,Capsicum,04-03-19,6000
+Kerala,Alappuzha,Capsicum,04-03-19,8200
+Odisha,Sundergarh,Capsicum,04-03-19,4000
+Punjab,Hoshiarpur,Capsicum,04-03-19,3000
+Punjab,Jalandhar,Capsicum,04-03-19,4000
+Punjab,Tarntaran,Capsicum,04-03-19,2100
+Punjab,Gurdaspur,Capsicum,04-03-19,2050
+Punjab,Mansa,Capsicum,04-03-19,2800
+Rajasthan,Jalore,Capsicum,04-03-19,2400
+Uttar Pradesh,Lakhimpur,Capsicum,04-03-19,1720
+Andaman and Nicobar,South Andaman,Carrot,04-03-19,10000
+Assam,Darrang,Carrot,04-03-19,1050
+Assam,Kamrup,Carrot,04-03-19,1000
+Gujarat,Vadodara(Baroda),Carrot,04-03-19,850
+Gujarat,Bharuch,Carrot,04-03-19,825
+Haryana,Faridabad,Carrot,04-03-19,450
+Haryana,Gurgaon,Carrot,04-03-19,400
+Haryana,Ambala,Carrot,04-03-19,700
+Haryana,Mewat,Carrot,04-03-19,700
+Himachal Pradesh,Kangra,Carrot,04-03-19,650
+Himachal Pradesh,Kullu,Carrot,04-03-19,1150
+Himachal Pradesh,Kangra,Carrot,04-03-19,1000
+Himachal Pradesh,Kangra,Carrot,04-03-19,900
+Karnataka,Bangalore,Carrot,04-03-19,1600
+Karnataka,Kolar,Carrot,04-03-19,1200
+Kerala,Alappuzha,Carrot,04-03-19,3600
+Kerala,Alappuzha,Carrot,04-03-19,3800
+Kerala,Malappuram,Carrot,04-03-19,2100
+Kerala,Thirssur,Carrot,04-03-19,3500
+Kerala,Thirssur,Carrot,04-03-19,3800
+Kerala,Thirssur,Carrot,04-03-19,2300
+Kerala,Kasargod,Carrot,04-03-19,2700
+Kerala,Kollam,Carrot,04-03-19,5600
+Kerala,Kottayam,Carrot,04-03-19,2600
+Madhya Pradesh,Sheopur,Carrot,04-03-19,450
+Maharashtra,Pune,Carrot,04-03-19,1000
+Maharashtra,Pune,Carrot,04-03-19,900
+Maharashtra,Satara,Carrot,04-03-19,1000
+Odisha,Balasore,Carrot,04-03-19,1450
+Odisha,Sundergarh,Carrot,04-03-19,1000
+Punjab,Hoshiarpur,Carrot,04-03-19,700
+Punjab,Jalandhar,Carrot,04-03-19,500
+Punjab,Jalandhar,Carrot,04-03-19,300
+Punjab,Jalandhar,Carrot,04-03-19,700
+Punjab,Ludhiana,Carrot,04-03-19,700
+Punjab,Patiala,Carrot,04-03-19,600
+Punjab,Ropar (Rupnagar),Carrot,04-03-19,760
+Punjab,Tarntaran,Carrot,04-03-19,700
+Punjab,Amritsar,Carrot,04-03-19,800
+Punjab,Amritsar,Carrot,04-03-19,800
+Punjab,Barnala,Carrot,04-03-19,500
+Punjab,Gurdaspur,Carrot,04-03-19,650
+Punjab,Ludhiana,Carrot,04-03-19,900
+Punjab,Mansa,Carrot,04-03-19,500
+Punjab,Muktsar,Carrot,04-03-19,500
+Punjab,Tarntaran,Carrot,04-03-19,500
+Rajasthan,Jalore,Carrot,04-03-19,900
+Uttar Pradesh,Agra,Carrot,04-03-19,460
+Uttar Pradesh,Agra,Carrot,04-03-19,580
+Uttar Pradesh,Agra,Carrot,04-03-19,460
+Uttar Pradesh,Agra,Carrot,04-03-19,600
+Uttar Pradesh,Aligarh,Carrot,04-03-19,390
+Uttar Pradesh,Baghpat,Carrot,04-03-19,500
+Uttar Pradesh,Baghpat,Carrot,04-03-19,650
+Uttar Pradesh,Bulandshahar,Carrot,04-03-19,690
+Uttar Pradesh,Bulandshahar,Carrot,04-03-19,430
+Uttar Pradesh,Bulandshahar,Carrot,04-03-19,460
+Uttar Pradesh,Etah,Carrot,04-03-19,500
+Uttar Pradesh,Etawah,Carrot,04-03-19,750
+Uttar Pradesh,Gautam Budh Nagar,Carrot,04-03-19,400
+Uttar Pradesh,Muzaffarnagar,Carrot,04-03-19,630
+Uttar Pradesh,Muzaffarnagar,Carrot,04-03-19,490
+Uttar Pradesh,Muzaffarnagar,Carrot,04-03-19,440
+Uttar Pradesh,Saharanpur,Carrot,04-03-19,500
+Uttar Pradesh,Saharanpur,Carrot,04-03-19,360
+Uttar Pradesh,Saharanpur,Carrot,04-03-19,445
+Uttar Pradesh,Saharanpur,Carrot,04-03-19,500
+Uttar Pradesh,Saharanpur,Carrot,04-03-19,450
+Uttrakhand,Dehradoon,Carrot,04-03-19,700
+Kerala,Kasargod,Cashewnuts,04-03-19,10100
+Tamil Nadu,Nagercoil (Kannyiakumari),Cashewnuts,04-03-19,10500
+Gujarat,Anand,Castor Seed,04-03-19,4870
+Andaman and Nicobar,South Andaman,Cauliflower,04-03-19,11000
+Assam,Darrang,Cauliflower,04-03-19,1450
+Assam,Kamrup,Cauliflower,04-03-19,1900
+Gujarat,Surat,Cauliflower,04-03-19,2250
+Gujarat,Vadodara(Baroda),Cauliflower,04-03-19,1250
+Gujarat,Bharuch,Cauliflower,04-03-19,1100
+Haryana,Gurgaon,Cauliflower,04-03-19,1450
+Haryana,Faridabad,Cauliflower,04-03-19,2000
+Haryana,Panipat,Cauliflower,04-03-19,800
+Himachal Pradesh,Kangra,Cauliflower,04-03-19,1350
+Himachal Pradesh,Kullu,Cauliflower,04-03-19,1650
+Himachal Pradesh,Kangra,Cauliflower,04-03-19,1000
+Himachal Pradesh,Kangra,Cauliflower,04-03-19,1100
+Jammu and Kashmir,Badgam,Cauliflower,04-03-19,800
+Karnataka,Kolar,Cauliflower,04-03-19,1200
+Kerala,Malappuram,Cauliflower,04-03-19,2100
+Kerala,Thirssur,Cauliflower,04-03-19,3600
+Kerala,Thirssur,Cauliflower,04-03-19,2700
+Kerala,Kollam,Cauliflower,04-03-19,3600
+Madhya Pradesh,Badwani,Cauliflower,04-03-19,700
+Madhya Pradesh,Jhabua,Cauliflower,04-03-19,1500
+Maharashtra,Kolhapur,Cauliflower,04-03-19,1050
+Maharashtra,Kolhapur,Cauliflower,04-03-19,250
+Maharashtra,Pune,Cauliflower,04-03-19,1000
+Maharashtra,Pune,Cauliflower,04-03-19,1000
+Maharashtra,Pune,Cauliflower,04-03-19,750
+Maharashtra,Pune,Cauliflower,04-03-19,1200
+Maharashtra,Satara,Cauliflower,04-03-19,900
+Manipur,Chandel,Cauliflower,04-03-19,2000
+Manipur,Imphal West,Cauliflower,04-03-19,2000
+Manipur,Bishnupur,Cauliflower,04-03-19,2500
+Manipur,Imphal East,Cauliflower,04-03-19,2500
+Manipur,Thoubal,Cauliflower,04-03-19,2000
+Odisha,Sundergarh,Cauliflower,04-03-19,1000
+Odisha,Sundergarh,Cauliflower,04-03-19,900
+Odisha,Mayurbhanja,Cauliflower,04-03-19,1500
+Odisha,Mayurbhanja,Cauliflower,04-03-19,800
+Punjab,Gurdaspur,Cauliflower,04-03-19,700
+Punjab,Hoshiarpur,Cauliflower,04-03-19,800
+Punjab,Jalandhar,Cauliflower,04-03-19,700
+Punjab,Jalandhar,Cauliflower,04-03-19,200
+Punjab,Jalandhar,Cauliflower,04-03-19,700
+Punjab,Ludhiana,Cauliflower,04-03-19,550
+Punjab,Tarntaran,Cauliflower,04-03-19,520
+Punjab,Amritsar,Cauliflower,04-03-19,900
+Punjab,Barnala,Cauliflower,04-03-19,500
+Punjab,Gurdaspur,Cauliflower,04-03-19,580
+Punjab,Ludhiana,Cauliflower,04-03-19,900
+Punjab,Mansa,Cauliflower,04-03-19,700
+Punjab,Muktsar,Cauliflower,04-03-19,500
+Punjab,Patiala,Cauliflower,04-03-19,500
+Punjab,Tarntaran,Cauliflower,04-03-19,400
+Rajasthan,Jalore,Cauliflower,04-03-19,1100
+Telangana,Ranga Reddy,Cauliflower,04-03-19,650
+Tripura,Sepahijala,Cauliflower,04-03-19,3000
+Tripura,Sepahijala,Cauliflower,04-03-19,3000
+Uttar Pradesh,Kannuj,Cauliflower,04-03-19,480
+Uttar Pradesh,Muzaffarnagar,Cauliflower,04-03-19,340
+Uttar Pradesh,Agra,Cauliflower,04-03-19,650
+Uttar Pradesh,Agra,Cauliflower,04-03-19,650
+Uttar Pradesh,Agra,Cauliflower,04-03-19,650
+Uttar Pradesh,Agra,Cauliflower,04-03-19,590
+Uttar Pradesh,Agra,Cauliflower,04-03-19,650
+Uttar Pradesh,Agra,Cauliflower,04-03-19,500
+Uttar Pradesh,Aligarh,Cauliflower,04-03-19,490
+Uttar Pradesh,Baghpat,Cauliflower,04-03-19,750
+Uttar Pradesh,Bulandshahar,Cauliflower,04-03-19,590
+Uttar Pradesh,Bulandshahar,Cauliflower,04-03-19,410
+Uttar Pradesh,Bulandshahar,Cauliflower,04-03-19,550
+Uttar Pradesh,Etah,Cauliflower,04-03-19,600
+Uttar Pradesh,Etawah,Cauliflower,04-03-19,450
+Uttar Pradesh,Lakhimpur,Cauliflower,04-03-19,710
+Uttar Pradesh,Muzaffarnagar,Cauliflower,04-03-19,700
+Uttar Pradesh,Saharanpur,Cauliflower,04-03-19,440
+Uttar Pradesh,Saharanpur,Cauliflower,04-03-19,500
+Uttar Pradesh,Shahjahanpur,Cauliflower,04-03-19,400
+Uttar Pradesh,Sonbhadra,Cauliflower,04-03-19,500
+Uttar Pradesh,Sonbhadra,Cauliflower,04-03-19,490
+Uttar Pradesh,Baghpat,Cauliflower,04-03-19,1200
+Uttar Pradesh,Kanpur,Cauliflower,04-03-19,900
+Uttar Pradesh,Saharanpur,Cauliflower,04-03-19,250
+Uttrakhand,Dehradoon,Cauliflower,04-03-19,550
+West Bengal,Jalpaiguri,Cauliflower,04-03-19,650
+Haryana,Mewat,Chikoos(Sapota),04-03-19,3500
+Maharashtra,Pune,Chikoos(Sapota),04-03-19,1500
+Maharashtra,Satara,Chikoos(Sapota),04-03-19,2500
+Punjab,Muktsar,Chikoos(Sapota),04-03-19,3000
+Uttar Pradesh,Baghpat,Chikoos(Sapota),04-03-19,2300
+Karnataka,Bangalore,Chilly Capsicum,04-03-19,5500
+Karnataka,Kolar,Chilly Capsicum,04-03-19,3000
+Maharashtra,Pune,Chilly Capsicum,04-03-19,2500
+Maharashtra,Satara,Chilly Capsicum,04-03-19,3500
+Andaman and Nicobar,South Andaman,Cluster beans,04-03-19,9000
+Assam,Darrang,Cluster beans,04-03-19,4100
+Kerala,Kottayam,Cluster beans,04-03-19,3400
+Andaman and Nicobar,South Andaman,Coconut,04-03-19,5600
+Kerala,Kannur,Coconut,04-03-19,3300
+Kerala,Thirssur,Coconut,04-03-19,4000
+Kerala,Kottayam,Coconut,04-03-19,3600
+Odisha,Gajapati,Coconut,04-03-19,1500
+Tamil Nadu,Coimbatore,Coconut,04-03-19,2900
+Tamil Nadu,Coimbatore,Coconut,04-03-19,2500
+Tamil Nadu,Coimbatore,Coconut,04-03-19,3150
+Tamil Nadu,Coimbatore,Coconut,04-03-19,2140
+Tamil Nadu,Coimbatore,Coconut,04-03-19,2720
+Tamil Nadu,Coimbatore,Coconut,04-03-19,2400
+Tamil Nadu,Coimbatore,Coconut,04-03-19,2800
+Tamil Nadu,Coimbatore,Coconut,04-03-19,2750
+Tamil Nadu,Erode,Coconut,04-03-19,2870
+Tamil Nadu,Erode,Coconut,04-03-19,2935
+Tamil Nadu,Namakkal,Coconut,04-03-19,2350
+Tamil Nadu,Salem,Coconut,04-03-19,2210
+Tamil Nadu,Salem,Coconut,04-03-19,1280
+Tamil Nadu,Salem,Coconut,04-03-19,2310
+Tamil Nadu,Sivaganga,Coconut,04-03-19,950
+Tamil Nadu,Dindigul,Coconut,04-03-19,1600
+Tamil Nadu,Madurai,Coconut,04-03-19,1750
+Tamil Nadu,Coimbatore,Coconut,04-03-19,3100
+Tamil Nadu,Coimbatore,Coconut,04-03-19,2270
+Tamil Nadu,Coimbatore,Coconut,04-03-19,2800
+Tamil Nadu,Dindigul,Coconut,04-03-19,1650
+Tamil Nadu,Erode,Coconut,04-03-19,2530
+Tamil Nadu,Erode,Coconut,04-03-19,3225
+Tamil Nadu,Erode,Coconut,04-03-19,3000
+Kerala,Kannur,Coconut Oil,04-03-19,18150
+Kerala,Kasargod,Coconut Seed,04-03-19,3450
+Kerala,Thirssur,Coconut Seed,04-03-19,3500
+Tamil Nadu,Dharmapuri,Coconut Seed,04-03-19,1200
+Tamil Nadu,Dharmapuri,Coconut Seed,04-03-19,1200
+Tamil Nadu,Krishnagiri,Coconut Seed,04-03-19,1800
+Tamil Nadu,Krishnagiri,Coconut Seed,04-03-19,1950
+Tamil Nadu,Krishnagiri,Coconut Seed,04-03-19,1950
+Andaman and Nicobar,South Andaman,Colacasia,04-03-19,6000
+Kerala,Kollam,Colacasia,04-03-19,4100
+Kerala,Kottayam,Colacasia,04-03-19,5700
+Kerala,Thiruvananthapuram,Colacasia,04-03-19,4000
+Uttar Pradesh,Agra,Colacasia,04-03-19,2100
+Uttar Pradesh,Etah,Colacasia,04-03-19,1100
+Uttar Pradesh,Jhansi,Colacasia,04-03-19,2245
+Uttar Pradesh,Shahjahanpur,Colacasia,04-03-19,1550
+Karnataka,Tumkur,Copra,04-03-19,9000
+Kerala,Kannur,Copra,04-03-19,10250
+Kerala,Kasargod,Copra,04-03-19,10300
+Kerala,Kasargod,Copra,04-03-19,10100
+Pondicherry,Karaikal,Copra,04-03-19,9000
+Tamil Nadu,Coimbatore,Copra,04-03-19,9350
+Tamil Nadu,Erode,Copra,04-03-19,10195
+Tamil Nadu,Namakkal,Copra,04-03-19,9450
+Tamil Nadu,Coimbatore,Copra,04-03-19,9500
+Tamil Nadu,Erode,Copra,04-03-19,8845
+Tamil Nadu,Vellore,Copra,04-03-19,9300
+Tamil Nadu,Coimbatore,Copra,04-03-19,10275
+Tamil Nadu,Namakkal,Copra,04-03-19,8400
+Tamil Nadu,Salem,Copra,04-03-19,9700
+Gujarat,Vadodara(Baroda),Coriander(Leaves),04-03-19,3000
+Gujarat,Bharuch,Coriander(Leaves),04-03-19,825
+Haryana,Ambala,Coriander(Leaves),04-03-19,1805
+Himachal Pradesh,Kangra,Coriander(Leaves),04-03-19,1350
+Himachal Pradesh,Kullu,Coriander(Leaves),04-03-19,1300
+Himachal Pradesh,Kangra,Coriander(Leaves),04-03-19,2500
+Madhya Pradesh,Jhabua,Coriander(Leaves),04-03-19,1550
+Madhya Pradesh,Narsinghpur,Coriander(Leaves),04-03-19,400
+Maharashtra,Kolhapur,Coriander(Leaves),04-03-19,2450
+Maharashtra,Pune,Coriander(Leaves),04-03-19,4
+Maharashtra,Pune,Coriander(Leaves),04-03-19,3
+Maharashtra,Pune,Coriander(Leaves),04-03-19,4
+Maharashtra,Pune,Coriander(Leaves),04-03-19,4
+Maharashtra,Satara,Coriander(Leaves),04-03-19,2
+Maharashtra,Sholapur,Coriander(Leaves),04-03-19,2
+Punjab,Jalandhar,Coriander(Leaves),04-03-19,1000
+Punjab,Tarntaran,Coriander(Leaves),04-03-19,120
+Punjab,Ludhiana,Coriander(Leaves),04-03-19,1500
+Punjab,Tarntaran,Coriander(Leaves),04-03-19,400
+Rajasthan,Kota,Corriander seed,04-03-19,4152
+Gujarat,Vadodara(Baroda),Cotton,04-03-19,5400
+Gujarat,Vadodara(Baroda),Cotton,04-03-19,5400
+Gujarat,Vadodara(Baroda),Cotton,04-03-19,5400
+Gujarat,Vadodara(Baroda),Cotton,04-03-19,5400
+Gujarat,Panchmahals,Cotton,04-03-19,4550
+Madhya Pradesh,Jhabua,Cotton,04-03-19,5400
+Maharashtra,Jalgaon,Cotton,04-03-19,5200
+Maharashtra,Nagpur,Cotton,04-03-19,5325
+Maharashtra,Buldhana,Cotton,04-03-19,5300
+Punjab,Muktsar,Cotton,04-03-19,5500
+Punjab,Mansa,Cotton,04-03-19,5390
+Tamil Nadu,Villupuram,Cotton,04-03-19,4595
+Tamil Nadu,Dharmapuri,Cotton,04-03-19,5600
+Tamil Nadu,Krishnagiri,Cotton,04-03-19,5700
+Tamil Nadu,Madurai,Cotton,04-03-19,4000
+Tamil Nadu,Salem,Cotton,04-03-19,5650
+Tamil Nadu,Salem,Cotton,04-03-19,4800
+Tamil Nadu,Salem,Cotton,04-03-19,5200
+Tamil Nadu,Villupuram,Cotton,04-03-19,4896
+Tamil Nadu,Madurai,Cotton,04-03-19,4250
+Tamil Nadu,Salem,Cotton,04-03-19,5625
+Telangana,Karimnagar,Cotton,04-03-19,6000
+Telangana,Karimnagar,Cotton,04-03-19,5200
+Tamil Nadu,Vellore,Cowpea (Lobia/Karamani),04-03-19,4550
+Gujarat,Surat,Cowpea(Veg),04-03-19,2927
+Gujarat,Surat,Cowpea(Veg),04-03-19,2927
+Gujarat,Vadodara(Baroda),Cowpea(Veg),04-03-19,3300
+Gujarat,Bharuch,Cowpea(Veg),04-03-19,3425
+Kerala,Ernakulam,Cowpea(Veg),04-03-19,4500
+Kerala,Kasargod,Cowpea(Veg),04-03-19,2100
+Kerala,Malappuram,Cowpea(Veg),04-03-19,3100
+Kerala,Thirssur,Cowpea(Veg),04-03-19,2100
+Kerala,Thirssur,Cowpea(Veg),04-03-19,3500
+Kerala,Alappuzha,Cowpea(Veg),04-03-19,4200
+Kerala,Kasargod,Cowpea(Veg),04-03-19,5000
+Assam,Darrang,Cucumbar(Kheera),04-03-19,1550
+Assam,Kamrup,Cucumbar(Kheera),04-03-19,2000
+Gujarat,Surat,Cucumbar(Kheera),04-03-19,2500
+Gujarat,Vadodara(Baroda),Cucumbar(Kheera),04-03-19,1750
+Gujarat,Bharuch,Cucumbar(Kheera),04-03-19,2175
+Haryana,Gurgaon,Cucumbar(Kheera),04-03-19,1400
+Haryana,Mewat,Cucumbar(Kheera),04-03-19,3000
+Himachal Pradesh,Kangra,Cucumbar(Kheera),04-03-19,5500
+Himachal Pradesh,Kullu,Cucumbar(Kheera),04-03-19,4800
+Jammu and Kashmir,Badgam,Cucumbar(Kheera),04-03-19,1600
+Karnataka,Bangalore,Cucumbar(Kheera),04-03-19,1750
+Kerala,Alappuzha,Cucumbar(Kheera),04-03-19,2000
+Kerala,Kasargod,Cucumbar(Kheera),04-03-19,1100
+Kerala,Malappuram,Cucumbar(Kheera),04-03-19,1300
+Kerala,Thirssur,Cucumbar(Kheera),04-03-19,2300
+Kerala,Thirssur,Cucumbar(Kheera),04-03-19,2000
+Kerala,Kasargod,Cucumbar(Kheera),04-03-19,2700
+Kerala,Kollam,Cucumbar(Kheera),04-03-19,3800
+Kerala,Kottayam,Cucumbar(Kheera),04-03-19,2000
+Maharashtra,Pune,Cucumbar(Kheera),04-03-19,2000
+Maharashtra,Pune,Cucumbar(Kheera),04-03-19,3000
+Maharashtra,Satara,Cucumbar(Kheera),04-03-19,2000
+Maharashtra,Sholapur,Cucumbar(Kheera),04-03-19,2000
+Odisha,Sundergarh,Cucumbar(Kheera),04-03-19,4000
+Odisha,Dhenkanal,Cucumbar(Kheera),04-03-19,2400
+Odisha,Mayurbhanja,Cucumbar(Kheera),04-03-19,3500
+Punjab,Hoshiarpur,Cucumbar(Kheera),04-03-19,2500
+Punjab,Jalandhar,Cucumbar(Kheera),04-03-19,2500
+Punjab,Tarntaran,Cucumbar(Kheera),04-03-19,1800
+Punjab,Mansa,Cucumbar(Kheera),04-03-19,1800
+Punjab,Muktsar,Cucumbar(Kheera),04-03-19,3500
+Punjab,Ropar (Rupnagar),Cucumbar(Kheera),04-03-19,1400
+Rajasthan,Jalore,Cucumbar(Kheera),04-03-19,2400
+Tripura,Sepahijala,Cucumbar(Kheera),04-03-19,4000
+Tripura,Sepahijala,Cucumbar(Kheera),04-03-19,3500
+Uttar Pradesh,Agra,Cucumbar(Kheera),04-03-19,1550
+Uttar Pradesh,Baghpat,Cucumbar(Kheera),04-03-19,850
+Uttar Pradesh,Muzaffarnagar,Cucumbar(Kheera),04-03-19,900
+Uttar Pradesh,Saharanpur,Cucumbar(Kheera),04-03-19,700
+West Bengal,Burdwan,Cucumbar(Kheera),04-03-19,3600
+West Bengal,Jalpaiguri,Cucumbar(Kheera),04-03-19,3200
+West Bengal,Bankura,Cucumbar(Kheera),04-03-19,2500
+West Bengal,Burdwan,Cucumbar(Kheera),04-03-19,4000
+West Bengal,Burdwan,Cucumbar(Kheera),04-03-19,3200
+West Bengal,Sounth 24 Parganas,Cucumbar(Kheera),04-03-19,5400
+Gujarat,Vadodara(Baroda),Drumstick,04-03-19,1400
+Gujarat,Bharuch,Drumstick,04-03-19,3475
+Karnataka,Bangalore,Drumstick,04-03-19,2900
+Kerala,Kollam,Drumstick,04-03-19,3500
+Kerala,Malappuram,Drumstick,04-03-19,6100
+Kerala,Thirssur,Drumstick,04-03-19,3200
+Kerala,Thirssur,Drumstick,04-03-19,2600
+Kerala,Thirssur,Drumstick,04-03-19,2400
+Kerala,Kasargod,Drumstick,04-03-19,6000
+Kerala,Kottayam,Drumstick,04-03-19,5800
+Kerala,Thiruvananthapuram,Drumstick,04-03-19,4000
+Maharashtra,Pune,Drumstick,04-03-19,3000
+Maharashtra,Pune,Drumstick,04-03-19,5000
+Maharashtra,Satara,Drumstick,04-03-19,2000
+Chattisgarh,Bastar,Dry Chillies,04-03-19,4200
+Manipur,Chandel,Dry Chillies,04-03-19,13300
+Manipur,Imphal East,Dry Chillies,04-03-19,15000
+Manipur,Imphal West,Dry Chillies,04-03-19,15000
+Manipur,Thoubal,Dry Chillies,04-03-19,14000
+Telangana,Hyderabad,Dry Chillies,04-03-19,4000
+Telangana,Hyderabad,Dry Chillies,04-03-19,7000
+Kerala,Thirssur,Duster Beans,04-03-19,3600
+Gujarat,Vadodara(Baroda),Elephant Yam (Suran),04-03-19,1650
+Gujarat,Bharuch,Elephant Yam (Suran),04-03-19,2825
+Kerala,Kottayam,Elephant Yam (Suran),04-03-19,2300
+Kerala,Thirssur,Elephant Yam (Suran),04-03-19,2600
+Kerala,Thirssur,Elephant Yam (Suran),04-03-19,2400
+Kerala,Thirssur,Elephant Yam (Suran),04-03-19,1400
+Kerala,Kollam,Elephant Yam (Suran),04-03-19,3200
+Maharashtra,Pune,Elephant Yam (Suran),04-03-19,1300
+Assam,Darrang,Field Pea,04-03-19,2900
+Punjab,Hoshiarpur,Field Pea,04-03-19,1500
+Uttar Pradesh,Etah,Field Pea,04-03-19,500
+Uttar Pradesh,Lakhimpur,Field Pea,04-03-19,860
+Uttar Pradesh,Saharanpur,Field Pea,04-03-19,1360
+Uttar Pradesh,Bahraich,Fish,04-03-19,4300
+Assam,Darrang,French Beans (Frasbean),04-03-19,2250
+Himachal Pradesh,Kangra,French Beans (Frasbean),04-03-19,3900
+Himachal Pradesh,Kangra,French Beans (Frasbean),04-03-19,5500
+Himachal Pradesh,Kullu,French Beans (Frasbean),04-03-19,5250
+Kerala,Malappuram,French Beans (Frasbean),04-03-19,3100
+Kerala,Thirssur,French Beans (Frasbean),04-03-19,3000
+Odisha,Sundergarh,French Beans (Frasbean),04-03-19,4000
+Assam,Jorhat,Garlic,04-03-19,5000
+Assam,Kamrup,Garlic,04-03-19,4500
+Haryana,Ambala,Garlic,04-03-19,3000
+Himachal Pradesh,Kullu,Garlic,04-03-19,5300
+Kerala,Malappuram,Garlic,04-03-19,7100
+Maharashtra,Pune,Garlic,04-03-19,2000
+Maharashtra,Satara,Garlic,04-03-19,3400
+Odisha,Balasore,Garlic,04-03-19,5100
+Odisha,Balasore,Garlic,04-03-19,2900
+Punjab,Jalandhar,Garlic,04-03-19,4000
+Punjab,Tarntaran,Garlic,04-03-19,2200
+Uttar Pradesh,Lakhimpur,Garlic,04-03-19,2540
+Uttar Pradesh,Muzaffarnagar,Garlic,04-03-19,2090
+Uttar Pradesh,Saharanpur,Garlic,04-03-19,1890
+Uttar Pradesh,Sonbhadra,Garlic,04-03-19,1810
+Uttar Pradesh,Etah,Garlic,04-03-19,800
+Uttar Pradesh,Mirzapur,Garlic,04-03-19,2000
+Uttrakhand,Dehradoon,Garlic,04-03-19,1350
+Uttar Pradesh,Kanpur,Ghee,04-03-19,29000
+Tamil Nadu,Villupuram,Gingelly Oil,04-03-19,10649
+Himachal Pradesh,Kullu,Ginger(Dry),04-03-19,9800
+Maharashtra,Pune,Ginger(Dry),04-03-19,4500
+Maharashtra,Satara,Ginger(Dry),04-03-19,6500
+Meghalaya,East Khasi Hills,Ginger(Dry),04-03-19,6500
+Odisha,Balasore,Ginger(Dry),04-03-19,7500
+Punjab,Tarntaran,Ginger(Dry),04-03-19,6500
+West Bengal,Burdwan,Ginger(Dry),04-03-19,7360
+West Bengal,Burdwan,Ginger(Dry),04-03-19,8000
+Gujarat,Vadodara(Baroda),Ginger(Green),04-03-19,6300
+Gujarat,Bharuch,Ginger(Green),04-03-19,6100
+Haryana,Mewat,Ginger(Green),04-03-19,9000
+Haryana,Ambala,Ginger(Green),04-03-19,8000
+Himachal Pradesh,Kangra,Ginger(Green),04-03-19,8750
+Himachal Pradesh,Kangra,Ginger(Green),04-03-19,9000
+Karnataka,Bangalore,Ginger(Green),04-03-19,5500
+Kerala,Kollam,Ginger(Green),04-03-19,7000
+Kerala,Malappuram,Ginger(Green),04-03-19,8900
+Kerala,Thirssur,Ginger(Green),04-03-19,8200
+Kerala,Thirssur,Ginger(Green),04-03-19,4000
+Kerala,Thirssur,Ginger(Green),04-03-19,7000
+Kerala,Kasargod,Ginger(Green),04-03-19,8500
+Kerala,Kollam,Ginger(Green),04-03-19,8800
+Kerala,Kottayam,Ginger(Green),04-03-19,8600
+Kerala,Thiruvananthapuram,Ginger(Green),04-03-19,8000
+Manipur,Bishnupur,Ginger(Green),04-03-19,4500
+Manipur,Chandel,Ginger(Green),04-03-19,3500
+Manipur,Imphal East,Ginger(Green),04-03-19,5500
+Manipur,Imphal West,Ginger(Green),04-03-19,3000
+Manipur,Thoubal,Ginger(Green),04-03-19,5500
+Nagaland,Mokokchung,Ginger(Green),04-03-19,1700
+Punjab,Hoshiarpur,Ginger(Green),04-03-19,7500
+Punjab,Jalandhar,Ginger(Green),04-03-19,7000
+Punjab,Patiala,Ginger(Green),04-03-19,5500
+Punjab,Ropar (Rupnagar),Ginger(Green),04-03-19,7730
+Punjab,Muktsar,Ginger(Green),04-03-19,7500
+Rajasthan,Jalore,Ginger(Green),04-03-19,5900
+Tripura,Sepahijala,Ginger(Green),04-03-19,6500
+Uttar Pradesh,Agra,Ginger(Green),04-03-19,4550
+Uttar Pradesh,Agra,Ginger(Green),04-03-19,1820
+Uttar Pradesh,Agra,Ginger(Green),04-03-19,2750
+Uttar Pradesh,Baghpat,Ginger(Green),04-03-19,2700
+Uttar Pradesh,Etah,Ginger(Green),04-03-19,3900
+Uttar Pradesh,Jhansi,Ginger(Green),04-03-19,3245
+Uttar Pradesh,Lakhimpur,Ginger(Green),04-03-19,3540
+Uttar Pradesh,Mirzapur,Ginger(Green),04-03-19,5360
+Uttar Pradesh,Saharanpur,Ginger(Green),04-03-19,3800
+Uttar Pradesh,Saharanpur,Ginger(Green),04-03-19,3200
+Uttar Pradesh,Saharanpur,Ginger(Green),04-03-19,2745
+Gujarat,Surat,Gram Raw(Chholia),04-03-19,2000
+Punjab,Muktsar,Gram Raw(Chholia),04-03-19,1000
+Haryana,Faridabad,Grapes,04-03-19,4000
+Haryana,Gurgaon,Grapes,04-03-19,3500
+Haryana,Mewat,Grapes,04-03-19,3000
+Haryana,Ambala,Grapes,04-03-19,4000
+Himachal Pradesh,Kangra,Grapes,04-03-19,4250
+Himachal Pradesh,Kangra,Grapes,04-03-19,7000
+Himachal Pradesh,Kullu,Grapes,04-03-19,7500
+Maharashtra,Pune,Grapes,04-03-19,3000
+Maharashtra,Pune,Grapes,04-03-19,3000
+Maharashtra,Satara,Grapes,04-03-19,2250
+Punjab,Hoshiarpur,Grapes,04-03-19,5000
+Punjab,Hoshiarpur,Grapes,04-03-19,3000
+Punjab,Mansa,Grapes,04-03-19,4500
+Punjab,Muktsar,Grapes,04-03-19,4500
+Punjab,Mansa,Grapes,04-03-19,7000
+Punjab,Muktsar,Grapes,04-03-19,8500
+Rajasthan,Jalore,Grapes,04-03-19,3400
+Uttar Pradesh,Bahraich,Grapes,04-03-19,4500
+Uttar Pradesh,Lakhimpur,Grapes,04-03-19,4240
+Uttrakhand,Dehradoon,Grapes,04-03-19,1800
+Karnataka,Bangalore,Green Avare (W),04-03-19,2900
+Assam,Darrang,Green Chilli,04-03-19,3600
+Assam,Kamrup,Green Chilli,04-03-19,1600
+Assam,Sonitpur,Green Chilli,04-03-19,2000
+Gujarat,Bharuch,Green Chilli,04-03-19,3000
+Gujarat,Vadodara(Baroda),Green Chilli,04-03-19,3000
+Haryana,Faridabad,Green Chilli,04-03-19,2900
+Haryana,Ambala,Green Chilli,04-03-19,5000
+Himachal Pradesh,Kangra,Green Chilli,04-03-19,6250
+Himachal Pradesh,Kullu,Green Chilli,04-03-19,6300
+Himachal Pradesh,Kangra,Green Chilli,04-03-19,5000
+Karnataka,Bangalore,Green Chilli,04-03-19,3800
+Kerala,Malappuram,Green Chilli,04-03-19,3100
+Kerala,Thirssur,Green Chilli,04-03-19,2100
+Kerala,Thirssur,Green Chilli,04-03-19,3500
+Kerala,Thirssur,Green Chilli,04-03-19,3800
+Kerala,Kasargod,Green Chilli,04-03-19,5000
+Kerala,Kottayam,Green Chilli,04-03-19,3800
+Madhya Pradesh,Jhabua,Green Chilli,04-03-19,2200
+Madhya Pradesh,Badwani,Green Chilli,04-03-19,800
+Madhya Pradesh,Narsinghpur,Green Chilli,04-03-19,2250
+Maharashtra,Kolhapur,Green Chilli,04-03-19,4600
+Maharashtra,Pune,Green Chilli,04-03-19,3500
+Maharashtra,Pune,Green Chilli,04-03-19,2400
+Maharashtra,Satara,Green Chilli,04-03-19,4500
+Maharashtra,Sholapur,Green Chilli,04-03-19,5000
+Punjab,Gurdaspur,Green Chilli,04-03-19,1500
+Punjab,Hoshiarpur,Green Chilli,04-03-19,5000
+Punjab,Jalandhar,Green Chilli,04-03-19,5000
+Punjab,Ludhiana,Green Chilli,04-03-19,3000
+Punjab,Patiala,Green Chilli,04-03-19,2500
+Punjab,Ropar (Rupnagar),Green Chilli,04-03-19,2640
+Punjab,Tarntaran,Green Chilli,04-03-19,1400
+Punjab,Ludhiana,Green Chilli,04-03-19,5000
+Punjab,Mansa,Green Chilli,04-03-19,3000
+Punjab,Muktsar,Green Chilli,04-03-19,2000
+Rajasthan,Jalore,Green Chilli,04-03-19,4400
+Telangana,Ranga Reddy,Green Chilli,04-03-19,1200
+Tripura,Sepahijala,Green Chilli,04-03-19,6500
+Uttar Pradesh,Agra,Green Chilli,04-03-19,2250
+Uttar Pradesh,Agra,Green Chilli,04-03-19,1550
+Uttar Pradesh,Agra,Green Chilli,04-03-19,2250
+Uttar Pradesh,Agra,Green Chilli,04-03-19,1080
+Uttar Pradesh,Agra,Green Chilli,04-03-19,2250
+Uttar Pradesh,Agra,Green Chilli,04-03-19,1200
+Uttar Pradesh,Aligarh,Green Chilli,04-03-19,790
+Uttar Pradesh,Baghpat,Green Chilli,04-03-19,2500
+Uttar Pradesh,Baghpat,Green Chilli,04-03-19,1600
+Uttar Pradesh,Bahraich,Green Chilli,04-03-19,1500
+Uttar Pradesh,Bulandshahar,Green Chilli,04-03-19,1005
+Uttar Pradesh,Bulandshahar,Green Chilli,04-03-19,960
+Uttar Pradesh,Etah,Green Chilli,04-03-19,1300
+Uttar Pradesh,Etawah,Green Chilli,04-03-19,1250
+Uttar Pradesh,Gautam Budh Nagar,Green Chilli,04-03-19,900
+Uttar Pradesh,Ghaziabad,Green Chilli,04-03-19,2500
+Uttar Pradesh,Kannuj,Green Chilli,04-03-19,2100
+Uttar Pradesh,Kanpur,Green Chilli,04-03-19,500
+Uttar Pradesh,Lakhimpur,Green Chilli,04-03-19,1890
+Uttar Pradesh,Mirzapur,Green Chilli,04-03-19,1500
+Uttar Pradesh,Muzaffarnagar,Green Chilli,04-03-19,2260
+Uttar Pradesh,Muzaffarnagar,Green Chilli,04-03-19,1005
+Uttar Pradesh,Muzaffarnagar,Green Chilli,04-03-19,1100
+Uttar Pradesh,Saharanpur,Green Chilli,04-03-19,2250
+Uttar Pradesh,Saharanpur,Green Chilli,04-03-19,1300
+Uttar Pradesh,Saharanpur,Green Chilli,04-03-19,2040
+Uttar Pradesh,Saharanpur,Green Chilli,04-03-19,1250
+Uttar Pradesh,Saharanpur,Green Chilli,04-03-19,1200
+Uttar Pradesh,Sonbhadra,Green Chilli,04-03-19,1650
+Uttrakhand,Dehradoon,Green Chilli,04-03-19,850
+West Bengal,Burdwan,Green Chilli,04-03-19,3800
+West Bengal,Nadia,Green Chilli,04-03-19,5000
+West Bengal,North 24 Parganas,Green Chilli,04-03-19,5600
+West Bengal,Burdwan,Green Chilli,04-03-19,7000
+West Bengal,Jalpaiguri,Green Chilli,04-03-19,2600
+West Bengal,Sounth 24 Parganas,Green Chilli,04-03-19,7600
+Assam,Dhubri,Green Gram (Moong)(Whole),04-03-19,6400
+Assam,Jorhat,Green Gram (Moong)(Whole),04-03-19,6600
+Tamil Nadu,Villupuram,Green Gram (Moong)(Whole),04-03-19,5062
+Tamil Nadu,Villupuram,Green Gram (Moong)(Whole),04-03-19,5140
+Tamil Nadu,Villupuram,Green Gram (Moong)(Whole),04-03-19,4302
+Tamil Nadu,Villupuram,Green Gram (Moong)(Whole),04-03-19,3539
+Tamil Nadu,Villupuram,Green Gram (Moong)(Whole),04-03-19,5209
+Tamil Nadu,Villupuram,Green Gram (Moong)(Whole),04-03-19,5109
+Uttar Pradesh,Kanpur,Green Gram (Moong)(Whole),04-03-19,5800
+West Bengal,Burdwan,Green Gram (Moong)(Whole),04-03-19,7000
+West Bengal,Burdwan,Green Gram (Moong)(Whole),04-03-19,7500
+Madhya Pradesh,Jhabua,Green Gram Dal (Moong Dal),04-03-19,3650
+Uttar Pradesh,Saharanpur,Green Peas,04-03-19,1150
+Uttar Pradesh,Etawah,Green Peas,04-03-19,650
+Uttar Pradesh,Muzaffarnagar,Green Peas,04-03-19,1100
+Uttar Pradesh,Saharanpur,Green Peas,04-03-19,800
+Rajasthan,Sikar,Ground Nut Seed,04-03-19,3500
+Chattisgarh,Surajpur,Groundnut,04-03-19,4900
+Tamil Nadu,Cuddalore,Groundnut,04-03-19,7034
+Tamil Nadu,Cuddalore,Groundnut,04-03-19,7036
+Tamil Nadu,Dharmapuri,Groundnut,04-03-19,5000
+Tamil Nadu,Thiruvannamalai,Groundnut,04-03-19,6620
+Tamil Nadu,Vellore,Groundnut,04-03-19,7361
+Tamil Nadu,Villupuram,Groundnut,04-03-19,6961
+Tamil Nadu,Villupuram,Groundnut,04-03-19,6524
+Tamil Nadu,Villupuram,Groundnut,04-03-19,6886
+Tamil Nadu,Villupuram,Groundnut,04-03-19,4080
+Tamil Nadu,Villupuram,Groundnut,04-03-19,6724
+Tamil Nadu,Villupuram,Groundnut,04-03-19,5555
+Tamil Nadu,Coimbatore,Groundnut,04-03-19,5100
+Tamil Nadu,Villupuram,Groundnut,04-03-19,6584
+Uttar Pradesh,Jhansi,Groundnut,04-03-19,3150
+Uttar Pradesh,Agra,Groundnut,04-03-19,5000
+Uttar Pradesh,Saharanpur,Groundnut,04-03-19,4900
+Gujarat,Surat,Guar,04-03-19,5200
+Gujarat,Amreli,Guar,04-03-19,1600
+Maharashtra,Pune,Guar,04-03-19,5000
+Maharashtra,Satara,Guar,04-03-19,4600
+Rajasthan,Bikaner,Guar,04-03-19,4020
+Rajasthan,Sikar,Guar,04-03-19,4050
+Gujarat,Kachchh,Guar Seed(Cluster Beans Seed),04-03-19,4010
+Rajasthan,Barmer,Guar Seed(Cluster Beans Seed),04-03-19,4100
+Rajasthan,Sikar,Guar Seed(Cluster Beans Seed),04-03-19,3875
+Himachal Pradesh,Kangra,Guava,04-03-19,4500
+Himachal Pradesh,Kullu,Guava,04-03-19,6150
+Maharashtra,Pune,Guava,04-03-19,3500
+Maharashtra,Pune,Guava,04-03-19,4500
+Punjab,Tarntaran,Guava,04-03-19,2000
+Punjab,Muktsar,Guava,04-03-19,2200
+Uttar Pradesh,Agra,Guava,04-03-19,1520
+Uttar Pradesh,Baghpat,Guava,04-03-19,1400
+Uttar Pradesh,Bulandshahar,Guava,04-03-19,910
+Uttar Pradesh,Etawah,Guava,04-03-19,950
+Uttar Pradesh,Kanpur,Guava,04-03-19,900
+Uttar Pradesh,Saharanpur,Guava,04-03-19,1945
+Uttar Pradesh,Saharanpur,Guava,04-03-19,1400
+West Bengal,Sounth 24 Parganas,Guava,04-03-19,4800
+Odisha,Nowarangpur,Gur(Jaggery),04-03-19,2000
+Uttar Pradesh,Baghpat,Gur(Jaggery),04-03-19,2500
+Uttar Pradesh,Bahraich,Gur(Jaggery),04-03-19,2000
+Uttar Pradesh,Bahraich,Gur(Jaggery),04-03-19,2500
+Uttar Pradesh,Bulandshahar,Gur(Jaggery),04-03-19,2200
+Uttar Pradesh,Muzaffarnagar,Gur(Jaggery),04-03-19,2510
+Uttar Pradesh,Muzaffarnagar,Gur(Jaggery),04-03-19,2240
+Uttar Pradesh,Agra,Gur(Jaggery),04-03-19,2570
+Uttar Pradesh,Agra,Gur(Jaggery),04-03-19,2580
+Uttar Pradesh,Agra,Gur(Jaggery),04-03-19,2580
+Uttar Pradesh,Allahabad,Gur(Jaggery),04-03-19,3000
+Uttar Pradesh,Ghaziabad,Gur(Jaggery),04-03-19,2260
+Uttar Pradesh,Kannuj,Gur(Jaggery),04-03-19,2400
+Uttar Pradesh,Mirzapur,Gur(Jaggery),04-03-19,3170
+Uttar Pradesh,Sonbhadra,Gur(Jaggery),04-03-19,3220
+Uttar Pradesh,Agra,Gur(Jaggery),04-03-19,2820
+Uttar Pradesh,Agra,Gur(Jaggery),04-03-19,5000
+Uttar Pradesh,Khiri (Lakhimpur),Gur(Jaggery),04-03-19,2100
+Uttar Pradesh,Lakhimpur,Gur(Jaggery),04-03-19,2430
+Uttar Pradesh,Ballia,Gur(Jaggery),04-03-19,4300
+Uttar Pradesh,Fatehpur,Gur(Jaggery),04-03-19,2500
+Uttar Pradesh,Khiri (Lakhimpur),Gur(Jaggery),04-03-19,500
+Uttar Pradesh,Sitapur,Gur(Jaggery),04-03-19,2050
+Uttar Pradesh,Khiri (Lakhimpur),Gur(Jaggery),04-03-19,3100
+Uttar Pradesh,Saharanpur,Gur(Jaggery),04-03-19,2450
+West Bengal,Burdwan,Gur(Jaggery),04-03-19,3100
+West Bengal,Medinipur(W),Gur(Jaggery),04-03-19,2950
+West Bengal,Puruliya,Gur(Jaggery),04-03-19,2600
+Tamil Nadu,Villupuram,Hybrid Cumbu,04-03-19,1948
+Tamil Nadu,Villupuram,Hybrid Cumbu,04-03-19,2222
+Tamil Nadu,Villupuram,Hybrid Cumbu,04-03-19,1825
+Gujarat,Vadodara(Baroda),Indian Beans (Seam),04-03-19,2100
+Gujarat,Bharuch,Indian Beans (Seam),04-03-19,1450
+Kerala,Kasargod,Indian Beans (Seam),04-03-19,4600
+Kerala,Thirssur,Indian Beans (Seam),04-03-19,4000
+Andhra Pradesh,Kurnool,Jowar(Sorghum),04-03-19,1900
+Tamil Nadu,Madurai,Jowar(Sorghum),04-03-19,2150
+Uttar Pradesh,Kanpur,Jowar(Sorghum),04-03-19,1400
+Assam,Dhubri,Jute,04-03-19,2800
+Assam,Sonitpur,Jute,04-03-19,3900
+West Bengal,Burdwan,Jute,04-03-19,3900
+West Bengal,Burdwan,Jute,04-03-19,3900
+West Bengal,Malda,Jute,04-03-19,3800
+West Bengal,Medinipur(W),Jute,04-03-19,4100
+West Bengal,Murshidabad,Jute,04-03-19,4300
+West Bengal,Murshidabad,Jute,04-03-19,3800
+West Bengal,Nadia,Jute,04-03-19,4300
+West Bengal,Uttar Dinajpur,Jute,04-03-19,4600
+West Bengal,Uttar Dinajpur,Jute,04-03-19,4500
+Tamil Nadu,Villupuram,Karamani,04-03-19,6263
+Maharashtra,Pune,Karbuja(Musk Melon),04-03-19,1700
+Haryana,Ambala,Kinnow,04-03-19,1500
+Haryana,Mewat,Kinnow,04-03-19,1500
+Haryana,Faridabad,Kinnow,04-03-19,1250
+Himachal Pradesh,Kangra,Kinnow,04-03-19,1600
+Himachal Pradesh,Kangra,Kinnow,04-03-19,2200
+Himachal Pradesh,Kullu,Kinnow,04-03-19,2650
+Himachal Pradesh,Kangra,Kinnow,04-03-19,2200
+Punjab,Hoshiarpur,Kinnow,04-03-19,2000
+Punjab,Hoshiarpur,Kinnow,04-03-19,1200
+Punjab,Hoshiarpur,Kinnow,04-03-19,500
+Punjab,Jalandhar,Kinnow,04-03-19,1200
+Punjab,Tarntaran,Kinnow,04-03-19,900
+Punjab,Mansa,Kinnow,04-03-19,1500
+Punjab,Muktsar,Kinnow,04-03-19,1200
+Uttar Pradesh,Bhadohi(Sant Ravi Nagar),Kinnow,04-03-19,900
+Uttrakhand,Dehradoon,Kinnow,04-03-19,750
+Assam,Darrang,Knool Khol,04-03-19,950
+Jammu and Kashmir,Badgam,Knool Khol,04-03-19,1250
+Karnataka,Bangalore,Knool Khol,04-03-19,1800
+Karnataka,Kolar,Knool Khol,04-03-19,1000
+Tamil Nadu,Villupuram,Kodo Millet(Varagu),04-03-19,1989
+Tamil Nadu,Vellore,Kulthi(Horse Gram),04-03-19,2881
+Tamil Nadu,Villupuram,Kulthi(Horse Gram),04-03-19,2630
+Gujarat,Vadodara(Baroda),Leafy Vegetable,04-03-19,750
+Haryana,Ambala,Leafy Vegetable,04-03-19,1000
+Maharashtra,Pune,Leafy Vegetable,04-03-19,1800
+Nagaland,Mokokchung,Leafy Vegetable,04-03-19,1700
+Odisha,Mayurbhanja,Leafy Vegetable,04-03-19,1500
+Punjab,Tarntaran,Leafy Vegetable,04-03-19,320
+Gujarat,Vadodara(Baroda),Lemon,04-03-19,4150
+Gujarat,Amreli,Lemon,04-03-19,1300
+Gujarat,Bharuch,Lemon,04-03-19,3700
+Himachal Pradesh,Kangra,Lemon,04-03-19,3900
+Himachal Pradesh,Kangra,Lemon,04-03-19,5500
+Himachal Pradesh,Kullu,Lemon,04-03-19,6500
+Kerala,Malappuram,Lemon,04-03-19,4100
+Kerala,Thirssur,Lemon,04-03-19,2000
+Rajasthan,Jalore,Lemon,04-03-19,2400
+Uttar Pradesh,Agra,Lemon,04-03-19,3000
+Uttar Pradesh,Agra,Lemon,04-03-19,2550
+Uttar Pradesh,Agra,Lemon,04-03-19,3000
+Uttar Pradesh,Agra,Lemon,04-03-19,2050
+Uttar Pradesh,Agra,Lemon,04-03-19,3000
+Uttar Pradesh,Bahraich,Lemon,04-03-19,2350
+Uttar Pradesh,Ghaziabad,Lemon,04-03-19,2750
+Uttar Pradesh,Muzaffarnagar,Lemon,04-03-19,2660
+Uttar Pradesh,Muzaffarnagar,Lemon,04-03-19,3100
+Uttrakhand,Dehradoon,Lemon,04-03-19,1350
+Assam,Cachar,Lentil (Masur)(Whole),04-03-19,7000
+Uttar Pradesh,Sitapur,Lentil (Masur)(Whole),04-03-19,4250
+Uttar Pradesh,Mirzapur,Lentil (Masur)(Whole),04-03-19,4410
+West Bengal,Puruliya,Lentil (Masur)(Whole),04-03-19,5450
+West Bengal,Burdwan,Lentil (Masur)(Whole),04-03-19,6100
+Maharashtra,Kolhapur,Lime,04-03-19,3625
+Maharashtra,Pune,Lime,04-03-19,1000
+Madhya Pradesh,Dindori,Linseed,04-03-19,3475
+Gujarat,Surat,Little gourd (Kundru),04-03-19,3350
+Kerala,Kasargod,Little gourd (Kundru),04-03-19,4600
+Kerala,Kollam,Little gourd (Kundru),04-03-19,4000
+Kerala,Kottayam,Little gourd (Kundru),04-03-19,3400
+Maharashtra,Pune,Little gourd (Kundru),04-03-19,2000
+Kerala,Kasargod,Long Melon(Kakri),04-03-19,2700
+Assam,Dhubri,Maida Atta,04-03-19,2370
+Assam,Sonitpur,Maize,04-03-19,1800
+Gujarat,Panchmahals,Maize,04-03-19,1900
+Gujarat,Panchmahals,Maize,04-03-19,1850
+Maharashtra,Jalgaon,Maize,04-03-19,1350
+Odisha,Ganjam,Maize,04-03-19,1350
+Odisha,Nowarangpur,Maize,04-03-19,1400
+Rajasthan,Tonk,Maize,04-03-19,1875
+Tamil Nadu,Coimbatore,Maize,04-03-19,1850
+Tamil Nadu,Coimbatore,Maize,04-03-19,1925
+Tamil Nadu,Salem,Maize,04-03-19,1840
+Tamil Nadu,Vellore,Maize,04-03-19,2210
+Tamil Nadu,Villupuram,Maize,04-03-19,1900
+Tamil Nadu,Villupuram,Maize,04-03-19,1849
+Tamil Nadu,Villupuram,Maize,04-03-19,2029
+Tamil Nadu,Dindigul,Maize,04-03-19,1600
+Tamil Nadu,Coimbatore,Maize,04-03-19,1850
+Uttar Pradesh,Farukhabad,Maize,04-03-19,1650
+Uttar Pradesh,Kannuj,Maize,04-03-19,1800
+Uttar Pradesh,Muzaffarnagar,Maize,04-03-19,1930
+Uttar Pradesh,Kanpur,Maize,04-03-19,1500
+Uttar Pradesh,Aligarh,Maize,04-03-19,1940
+Uttar Pradesh,Bulandshahar,Maize,04-03-19,1490
+Kerala,Thirssur,Mango,04-03-19,3500
+Maharashtra,Kolhapur,Mango,04-03-19,4500
+Kerala,Thirssur,Mango (Raw-Ripe),04-03-19,2100
+Kerala,Thirssur,Mango (Raw-Ripe),04-03-19,3000
+Kerala,Kottayam,Mango (Raw-Ripe),04-03-19,3400
+Himachal Pradesh,Kangra,Mashrooms,04-03-19,9500
+Himachal Pradesh,Kangra,Mashrooms,04-03-19,20000
+Assam,Jorhat,Masur Dal,04-03-19,6200
+Manipur,Bishnupur,Masur Dal,04-03-19,7300
+Manipur,Chandel,Masur Dal,04-03-19,7400
+Manipur,Imphal East,Masur Dal,04-03-19,8200
+Manipur,Imphal West,Masur Dal,04-03-19,7000
+Manipur,Thoubal,Masur Dal,04-03-19,7500
+Tripura,North Tripura,Masur Dal,04-03-19,8500
+West Bengal,Puruliya,Masur Dal,04-03-19,6300
+Gujarat,Vadodara(Baroda),Methi(Leaves),04-03-19,850
+Gujarat,Bharuch,Methi(Leaves),04-03-19,825
+Haryana,Ambala,Methi(Leaves),04-03-19,1410
+Himachal Pradesh,Kangra,Methi(Leaves),04-03-19,950
+Madhya Pradesh,Jhabua,Methi(Leaves),04-03-19,1300
+Maharashtra,Pune,Methi(Leaves),04-03-19,6
+Punjab,Jalandhar,Methi(Leaves),04-03-19,600
+Punjab,Ludhiana,Methi(Leaves),04-03-19,1000
+Gujarat,Vadodara(Baroda),Mint(Pudina),04-03-19,1300
+Maharashtra,Pune,Mint(Pudina),04-03-19,2
+Maharashtra,Pune,Mint(Pudina),04-03-19,6
+Rajasthan,Barmer,Moath Dal,04-03-19,4350
+Rajasthan,Bikaner,Moath Dal,04-03-19,4285
+West Bengal,Puruliya,Moath Dal,04-03-19,7400
+Himachal Pradesh,Kangra,Mousambi(Sweet Lime),04-03-19,3750
+Himachal Pradesh,Kangra,Mousambi(Sweet Lime),04-03-19,5500
+Uttar Pradesh,Ghaziabad,Mousambi(Sweet Lime),04-03-19,2680
+Uttar Pradesh,Agra,Mousambi(Sweet Lime),04-03-19,2250
+Uttar Pradesh,Agra,Mousambi(Sweet Lime),04-03-19,2650
+Uttar Pradesh,Muzaffarnagar,Mousambi(Sweet Lime),04-03-19,2610
+Assam,Sonitpur,Mustard,04-03-19,4100
+Assam,Dhubri,Mustard,04-03-19,2400
+Madhya Pradesh,Sheopur,Mustard,04-03-19,3250
+Rajasthan,Baran,Mustard,04-03-19,3443
+Rajasthan,Jhalawar,Mustard,04-03-19,3613
+Rajasthan,Kota,Mustard,04-03-19,3128
+Rajasthan,Tonk,Mustard,04-03-19,3350
+Telangana,Karimnagar,Mustard,04-03-19,4255
+Uttar Pradesh,Agra,Mustard,04-03-19,3400
+Uttar Pradesh,Agra,Mustard,04-03-19,3300
+Uttar Pradesh,Agra,Mustard,04-03-19,3450
+Uttar Pradesh,Agra,Mustard,04-03-19,3400
+Uttar Pradesh,Agra,Mustard,04-03-19,3500
+Uttar Pradesh,Kanpur,Mustard,04-03-19,3800
+Uttar Pradesh,Lakhimpur,Mustard,04-03-19,3085
+Uttar Pradesh,Mirzapur,Mustard,04-03-19,4090
+Uttar Pradesh,Saharanpur,Mustard,04-03-19,4000
+Uttar Pradesh,Ghaziabad,Mustard,04-03-19,4100
+Uttar Pradesh,Muzaffarnagar,Mustard,04-03-19,4100
+Uttar Pradesh,Rampur,Mustard,04-03-19,3350
+Uttar Pradesh,Kannuj,Mustard,04-03-19,3400
+Uttar Pradesh,Sonbhadra,Mustard,04-03-19,4035
+Uttar Pradesh,Bulandshahar,Mustard,04-03-19,3590
+Uttar Pradesh,Chitrakut,Mustard,04-03-19,3475
+Uttar Pradesh,Etah,Mustard,04-03-19,3100
+Uttar Pradesh,Mahoba,Mustard,04-03-19,3450
+West Bengal,Burdwan,Mustard,04-03-19,3800
+West Bengal,Burdwan,Mustard,04-03-19,3800
+West Bengal,Malda,Mustard,04-03-19,4100
+West Bengal,Medinipur(W),Mustard,04-03-19,4200
+West Bengal,Nadia,Mustard,04-03-19,4100
+West Bengal,Burdwan,Mustard,04-03-19,4300
+West Bengal,Malda,Mustard,04-03-19,4000
+West Bengal,Burdwan,Mustard,04-03-19,4350
+West Bengal,Bankura,Mustard,04-03-19,4200
+West Bengal,Bankura,Mustard,04-03-19,4200
+Uttar Pradesh,Ghaziabad,Mustard Oil,04-03-19,9250
+Uttar Pradesh,Kannuj,Mustard Oil,04-03-19,9000
+Uttar Pradesh,Lakhimpur,Mustard Oil,04-03-19,9245
+Uttar Pradesh,Mirzapur,Mustard Oil,04-03-19,9880
+Uttar Pradesh,Muzaffarnagar,Mustard Oil,04-03-19,9270
+West Bengal,Burdwan,Mustard Oil,04-03-19,9925
+West Bengal,Puruliya,Mustard Oil,04-03-19,9940
+West Bengal,Puruliya,Mustard Oil,04-03-19,10530
+Madhya Pradesh,Dindori,Niger Seed (Ramtil),04-03-19,4150
+Andaman and Nicobar,South Andaman,Onion,04-03-19,3000
+Assam,Jorhat,Onion,04-03-19,1200
+Assam,Kamrup,Onion,04-03-19,1100
+Gujarat,Vadodara(Baroda),Onion,04-03-19,600
+Haryana,Gurgaon,Onion,04-03-19,1000
+Haryana,Panipat,Onion,04-03-19,1500
+Himachal Pradesh,Kangra,Onion,04-03-19,750
+Himachal Pradesh,Kangra,Onion,04-03-19,1100
+Himachal Pradesh,Kullu,Onion,04-03-19,1250
+Kerala,Malappuram,Onion,04-03-19,1400
+Kerala,Thirssur,Onion,04-03-19,1900
+Kerala,Thirssur,Onion,04-03-19,2500
+Kerala,Thirssur,Onion,04-03-19,950
+Kerala,Kottayam,Onion,04-03-19,1400
+Kerala,Kottayam,Onion,04-03-19,3500
+Madhya Pradesh,Jhabua,Onion,04-03-19,650
+Maharashtra,Ahmednagar,Onion,04-03-19,400
+Maharashtra,Jalgaon,Onion,04-03-19,510
+Maharashtra,Nashik,Onion,04-03-19,351
+Maharashtra,Kolhapur,Onion,04-03-19,450
+Maharashtra,Satara,Onion,04-03-19,800
+Maharashtra,Sholapur,Onion,04-03-19,500
+Maharashtra,Pune,Onion,04-03-19,300
+Maharashtra,Pune,Onion,04-03-19,300
+Maharashtra,Pune,Onion,04-03-19,400
+Maharashtra,Pune,Onion,04-03-19,550
+Manipur,Chandel,Onion,04-03-19,2500
+Manipur,Imphal East,Onion,04-03-19,2500
+Manipur,Imphal West,Onion,04-03-19,2500
+Manipur,Thoubal,Onion,04-03-19,2000
+Manipur,Bishnupur,Onion,04-03-19,2500
+Odisha,Balasore,Onion,04-03-19,1100
+Odisha,Dhenkanal,Onion,04-03-19,1300
+Odisha,Ganjam,Onion,04-03-19,1400
+Odisha,Jharsuguda,Onion,04-03-19,1300
+Odisha,Mayurbhanja,Onion,04-03-19,1400
+Odisha,Sundergarh,Onion,04-03-19,1500
+Odisha,Sundergarh,Onion,04-03-19,1500
+Punjab,Bhatinda,Onion,04-03-19,1500
+Punjab,Gurdaspur,Onion,04-03-19,850
+Punjab,Hoshiarpur,Onion,04-03-19,800
+Punjab,Jalandhar,Onion,04-03-19,800
+Punjab,Ludhiana,Onion,04-03-19,1000
+Punjab,Patiala,Onion,04-03-19,1000
+Punjab,Ropar (Rupnagar),Onion,04-03-19,1020
+Punjab,Tarntaran,Onion,04-03-19,900
+Punjab,Muktsar,Onion,04-03-19,700
+Punjab,Mansa,Onion,04-03-19,1200
+Punjab,Patiala,Onion,04-03-19,850
+Rajasthan,Jalore,Onion,04-03-19,700
+Tripura,South District,Onion,04-03-19,1850
+Uttar Pradesh,Agra,Onion,04-03-19,800
+Uttar Pradesh,Agra,Onion,04-03-19,900
+Uttar Pradesh,Agra,Onion,04-03-19,850
+Uttar Pradesh,Agra,Onion,04-03-19,850
+Uttar Pradesh,Agra,Onion,04-03-19,800
+Uttar Pradesh,Agra,Onion,04-03-19,800
+Uttar Pradesh,Allahabad,Onion,04-03-19,650
+Uttar Pradesh,Baghpat,Onion,04-03-19,900
+Uttar Pradesh,Bahraich,Onion,04-03-19,785
+Uttar Pradesh,Bhadohi(Sant Ravi Nagar),Onion,04-03-19,700
+Uttar Pradesh,Bulandshahar,Onion,04-03-19,1190
+Uttar Pradesh,Bulandshahar,Onion,04-03-19,560
+Uttar Pradesh,Etah,Onion,04-03-19,700
+Uttar Pradesh,Ghaziabad,Onion,04-03-19,760
+Uttar Pradesh,Kannuj,Onion,04-03-19,800
+Uttar Pradesh,Kanpur,Onion,04-03-19,900
+Uttar Pradesh,Khiri (Lakhimpur),Onion,04-03-19,900
+Uttar Pradesh,Lakhimpur,Onion,04-03-19,850
+Uttar Pradesh,Mirzapur,Onion,04-03-19,860
+Uttar Pradesh,Muradabad,Onion,04-03-19,530
+Uttar Pradesh,Muzaffarnagar,Onion,04-03-19,890
+Uttar Pradesh,Muzaffarnagar,Onion,04-03-19,1100
+Uttar Pradesh,Saharanpur,Onion,04-03-19,500
+Uttar Pradesh,Saharanpur,Onion,04-03-19,1440
+Uttar Pradesh,Saharanpur,Onion,04-03-19,1100
+Uttar Pradesh,Saharanpur,Onion,04-03-19,700
+Uttar Pradesh,Sonbhadra,Onion,04-03-19,815
+Uttar Pradesh,Ballia,Onion,04-03-19,1150
+Uttar Pradesh,Bulandshahar,Onion,04-03-19,985
+Uttar Pradesh,Sitapur,Onion,04-03-19,700
+Uttar Pradesh,Muzaffarnagar,Onion,04-03-19,980
+Uttar Pradesh,Saharanpur,Onion,04-03-19,1050
+Uttar Pradesh,Baghpat,Onion,04-03-19,1000
+Uttar Pradesh,Saharanpur,Onion,04-03-19,1120
+Uttrakhand,Dehradoon,Onion,04-03-19,1150
+Uttrakhand,UdhamSinghNagar,Onion,04-03-19,975
+West Bengal,Murshidabad,Onion,04-03-19,860
+West Bengal,Burdwan,Onion,04-03-19,1000
+West Bengal,Nadia,Onion,04-03-19,1200
+West Bengal,North 24 Parganas,Onion,04-03-19,1000
+West Bengal,Puruliya,Onion,04-03-19,1000
+West Bengal,Puruliya,Onion,04-03-19,1000
+West Bengal,Malda,Onion,04-03-19,750
+West Bengal,Bankura,Onion,04-03-19,1150
+West Bengal,Burdwan,Onion,04-03-19,1020
+West Bengal,Burdwan,Onion,04-03-19,1000
+West Bengal,Burdwan,Onion,04-03-19,1100
+West Bengal,Sounth 24 Parganas,Onion,04-03-19,1300
+Gujarat,Bharuch,Onion Green,04-03-19,1225
+Maharashtra,Pune,Onion Green,04-03-19,5
+Maharashtra,Pune,Onion Green,04-03-19,5
+Maharashtra,Pune,Onion Green,04-03-19,5
+Maharashtra,Satara,Onion Green,04-03-19,3
+Punjab,Muktsar,Onion Green,04-03-19,1200
+Haryana,Faridabad,Orange,04-03-19,2000
+Haryana,Gurgaon,Orange,04-03-19,2200
+Haryana,Mewat,Orange,04-03-19,3000
+Himachal Pradesh,Kangra,Orange,04-03-19,3250
+Himachal Pradesh,Kangra,Orange,04-03-19,4500
+Kerala,Malappuram,Orange,04-03-19,5900
+Madhya Pradesh,Dhar,Orange,04-03-19,900
+Madhya Pradesh,Sheopur,Orange,04-03-19,1100
+Maharashtra,Pune,Orange,04-03-19,2900
+Meghalaya,East Khasi Hills,Orange,04-03-19,4000
+Odisha,Sundergarh,Orange,04-03-19,8000
+Odisha,Sundergarh,Orange,04-03-19,8000
+Odisha,Sundergarh,Orange,04-03-19,8000
+Uttar Pradesh,Lakhimpur,Orange,04-03-19,1750
+Uttrakhand,Dehradoon,Orange,04-03-19,1800
+Uttar Pradesh,Kanpur,Paddy(Dhan)(Basmati),04-03-19,1775
+Andhra Pradesh,Kurnool,Paddy(Dhan)(Common),04-03-19,1950
+Andhra Pradesh,West Godavari,Paddy(Dhan)(Common),04-03-19,1760
+Chattisgarh,Kanker,Paddy(Dhan)(Common),04-03-19,1500
+Chattisgarh,Kanker,Paddy(Dhan)(Common),04-03-19,1500
+Chattisgarh,Kanker,Paddy(Dhan)(Common),04-03-19,1500
+Gujarat,Surat,Paddy(Dhan)(Common),04-03-19,1697
+Gujarat,Panchmahals,Paddy(Dhan)(Common),04-03-19,1425
+Gujarat,Surat,Paddy(Dhan)(Common),04-03-19,1475
+Gujarat,Surat,Paddy(Dhan)(Common),04-03-19,1475
+Gujarat,Panchmahals,Paddy(Dhan)(Common),04-03-19,1525
+Kerala,Kasargod,Paddy(Dhan)(Common),04-03-19,1850
+Madhya Pradesh,Anupur,Paddy(Dhan)(Common),04-03-19,1750
+Madhya Pradesh,Dindori,Paddy(Dhan)(Common),04-03-19,1325
+Madhya Pradesh,Jhabua,Paddy(Dhan)(Common),04-03-19,1300
+Manipur,Bishnupur,Paddy(Dhan)(Common),04-03-19,2250
+Manipur,Imphal East,Paddy(Dhan)(Common),04-03-19,2500
+Manipur,Imphal West,Paddy(Dhan)(Common),04-03-19,2250
+Manipur,Thoubal,Paddy(Dhan)(Common),04-03-19,2375
+Odisha,Bargarh,Paddy(Dhan)(Common),04-03-19,1750
+Odisha,Sundergarh,Paddy(Dhan)(Common),04-03-19,1790
+Odisha,Ganjam,Paddy(Dhan)(Common),04-03-19,1750
+Pondicherry,Karaikal,Paddy(Dhan)(Common),04-03-19,1833
+Pondicherry,Karaikal,Paddy(Dhan)(Common),04-03-19,1583
+Pondicherry,Karaikal,Paddy(Dhan)(Common),04-03-19,1583
+Pondicherry,Karaikal,Paddy(Dhan)(Common),04-03-19,1667
+Pondicherry,Karaikal,Paddy(Dhan)(Common),04-03-19,1833
+Tamil Nadu,Villupuram,Paddy(Dhan)(Common),04-03-19,1655
+Tamil Nadu,Villupuram,Paddy(Dhan)(Common),04-03-19,1451
+Tamil Nadu,Vellore,Paddy(Dhan)(Common),04-03-19,1430
+Tamil Nadu,Virudhunagar,Paddy(Dhan)(Common),04-03-19,1700
+Tamil Nadu,Madurai,Paddy(Dhan)(Common),04-03-19,2450
+Tamil Nadu,Villupuram,Paddy(Dhan)(Common),04-03-19,2019
+Tamil Nadu,Villupuram,Paddy(Dhan)(Common),04-03-19,2506
+Tamil Nadu,Cuddalore,Paddy(Dhan)(Common),04-03-19,1407
+Tamil Nadu,Thanjavur,Paddy(Dhan)(Common),04-03-19,1850
+Tamil Nadu,Coimbatore,Paddy(Dhan)(Common),04-03-19,1700
+Tamil Nadu,Cuddalore,Paddy(Dhan)(Common),04-03-19,1616
+Tamil Nadu,Thiruvannamalai,Paddy(Dhan)(Common),04-03-19,1448
+Tamil Nadu,Vellore,Paddy(Dhan)(Common),04-03-19,1485
+Tamil Nadu,Vellore,Paddy(Dhan)(Common),04-03-19,1652
+Tamil Nadu,Villupuram,Paddy(Dhan)(Common),04-03-19,1395
+Tamil Nadu,Villupuram,Paddy(Dhan)(Common),04-03-19,1420
+Tamil Nadu,Virudhunagar,Paddy(Dhan)(Common),04-03-19,1775
+Tamil Nadu,Cuddalore,Paddy(Dhan)(Common),04-03-19,1500
+Tamil Nadu,Thanjavur,Paddy(Dhan)(Common),04-03-19,2000
+Tamil Nadu,Thanjavur,Paddy(Dhan)(Common),04-03-19,1780
+Tamil Nadu,Thanjavur,Paddy(Dhan)(Common),04-03-19,1780
+Tamil Nadu,Thanjavur,Paddy(Dhan)(Common),04-03-19,2250
+Tamil Nadu,Thanjavur,Paddy(Dhan)(Common),04-03-19,1950
+Tamil Nadu,Villupuram,Paddy(Dhan)(Common),04-03-19,1700
+Tamil Nadu,Villupuram,Paddy(Dhan)(Common),04-03-19,1715
+Tamil Nadu,Villupuram,Paddy(Dhan)(Common),04-03-19,1643
+Tamil Nadu,Kancheepuram,Paddy(Dhan)(Common),04-03-19,1550
+Tamil Nadu,Madurai,Paddy(Dhan)(Common),04-03-19,1840
+Tamil Nadu,Madurai,Paddy(Dhan)(Common),04-03-19,1850
+Tamil Nadu,Villupuram,Paddy(Dhan)(Common),04-03-19,1515
+Tamil Nadu,Villupuram,Paddy(Dhan)(Common),04-03-19,1431
+Tamil Nadu,Kancheepuram,Paddy(Dhan)(Common),04-03-19,1420
+Tamil Nadu,Kancheepuram,Paddy(Dhan)(Common),04-03-19,1560
+Tamil Nadu,Kancheepuram,Paddy(Dhan)(Common),04-03-19,1550
+Tamil Nadu,Kancheepuram,Paddy(Dhan)(Common),04-03-19,1350
+Tamil Nadu,Kancheepuram,Paddy(Dhan)(Common),04-03-19,1420
+Tamil Nadu,Kancheepuram,Paddy(Dhan)(Common),04-03-19,1560
+Tamil Nadu,Kancheepuram,Paddy(Dhan)(Common),04-03-19,1560
+Tamil Nadu,Kancheepuram,Paddy(Dhan)(Common),04-03-19,1404
+Tamil Nadu,Thiruvannamalai,Paddy(Dhan)(Common),04-03-19,1356
+Tamil Nadu,Vellore,Paddy(Dhan)(Common),04-03-19,1298
+Tamil Nadu,Vellore,Paddy(Dhan)(Common),04-03-19,1453
+Tamil Nadu,Vellore,Paddy(Dhan)(Common),04-03-19,1400
+Tamil Nadu,Villupuram,Paddy(Dhan)(Common),04-03-19,1453
+Tamil Nadu,Villupuram,Paddy(Dhan)(Common),04-03-19,1355
+Tamil Nadu,Villupuram,Paddy(Dhan)(Common),04-03-19,1376
+Tamil Nadu,Villupuram,Paddy(Dhan)(Common),04-03-19,1420
+Tamil Nadu,Villupuram,Paddy(Dhan)(Common),04-03-19,1424
+Tamil Nadu,Madurai,Paddy(Dhan)(Common),04-03-19,1820
+Tamil Nadu,Ramanathapuram,Paddy(Dhan)(Common),04-03-19,1810
+Tamil Nadu,Vellore,Paddy(Dhan)(Common),04-03-19,1426
+Tamil Nadu,Villupuram,Paddy(Dhan)(Common),04-03-19,1789
+Tamil Nadu,Thanjavur,Paddy(Dhan)(Common),04-03-19,1780
+Telangana,Nizamabad,Paddy(Dhan)(Common),04-03-19,1750
+Telangana,Nalgonda,Paddy(Dhan)(Common),04-03-19,1750
+Telangana,Nalgonda,Paddy(Dhan)(Common),04-03-19,1770
+Telangana,Nalgonda,Paddy(Dhan)(Common),04-03-19,1770
+Uttar Pradesh,Bahraich,Paddy(Dhan)(Common),04-03-19,1500
+Uttar Pradesh,Bahraich,Paddy(Dhan)(Common),04-03-19,1510
+Uttar Pradesh,Bahraich,Paddy(Dhan)(Common),04-03-19,1500
+Uttar Pradesh,Muradabad,Paddy(Dhan)(Common),04-03-19,1932
+Uttar Pradesh,Kannuj,Paddy(Dhan)(Common),04-03-19,2400
+Uttar Pradesh,Fatehpur,Paddy(Dhan)(Common),04-03-19,1750
+Uttar Pradesh,Kanpur,Paddy(Dhan)(Common),04-03-19,1752
+Uttar Pradesh,Raebarelli,Paddy(Dhan)(Common),04-03-19,1750
+West Bengal,Bankura,Paddy(Dhan)(Common),04-03-19,1750
+West Bengal,Burdwan,Paddy(Dhan)(Common),04-03-19,1750
+West Bengal,Burdwan,Paddy(Dhan)(Common),04-03-19,1770
+West Bengal,Burdwan,Paddy(Dhan)(Common),04-03-19,1750
+West Bengal,Burdwan,Paddy(Dhan)(Common),04-03-19,1750
+West Bengal,Nadia,Paddy(Dhan)(Common),04-03-19,1770
+West Bengal,Burdwan,Paddy(Dhan)(Common),04-03-19,1750
+West Bengal,Murshidabad,Paddy(Dhan)(Common),04-03-19,1780
+Haryana,Gurgaon,Papaya,04-03-19,1650
+Himachal Pradesh,Kangra,Papaya,04-03-19,2250
+Himachal Pradesh,Kangra,Papaya,04-03-19,2500
+Himachal Pradesh,Kullu,Papaya,04-03-19,2900
+Karnataka,Bangalore,Papaya,04-03-19,1300
+Punjab,Hoshiarpur,Papaya,04-03-19,1500
+Punjab,Tarntaran,Papaya,04-03-19,1200
+Rajasthan,Jalore,Papaya,04-03-19,1400
+Uttar Pradesh,Agra,Papaya,04-03-19,1050
+Uttar Pradesh,Agra,Papaya,04-03-19,1040
+Uttar Pradesh,Agra,Papaya,04-03-19,2150
+Uttar Pradesh,Baghpat,Papaya,04-03-19,1100
+Uttar Pradesh,Ghaziabad,Papaya,04-03-19,1300
+Uttar Pradesh,Muzaffarnagar,Papaya,04-03-19,1170
+Uttar Pradesh,Muzaffarnagar,Papaya,04-03-19,900
+Uttar Pradesh,Saharanpur,Papaya,04-03-19,1745
+Uttar Pradesh,Saharanpur,Papaya,04-03-19,1300
+Uttar Pradesh,Saharanpur,Papaya,04-03-19,800
+Uttrakhand,Dehradoon,Papaya,04-03-19,700
+Gujarat,Vadodara(Baroda),Papaya (Raw),04-03-19,850
+Tripura,Sepahijala,Papaya (Raw),04-03-19,1800
+Tripura,Sepahijala,Papaya (Raw),04-03-19,1200
+Uttar Pradesh,Saharanpur,Papaya (Raw),04-03-19,700
+West Bengal,North 24 Parganas,Papaya (Raw),04-03-19,800
+West Bengal,Sounth 24 Parganas,Papaya (Raw),04-03-19,1400
+Maharashtra,Pune,Pear(Marasebu),04-03-19,8000
+Gujarat,Bharuch,Peas cod,04-03-19,1325
+Gujarat,Vadodara(Baroda),Peas cod,04-03-19,1600
+Himachal Pradesh,Kangra,Peas cod,04-03-19,1650
+Punjab,Amritsar,Peas cod,04-03-19,800
+Punjab,Mansa,Peas cod,04-03-19,1200
+Punjab,Gurdaspur,Peas cod,04-03-19,1000
+Punjab,Muktsar,Peas cod,04-03-19,1200
+Uttar Pradesh,Kannuj,Peas cod,04-03-19,1000
+Uttar Pradesh,Saharanpur,Peas cod,04-03-19,900
+Haryana,Ambala,Peas Wet,04-03-19,1200
+Haryana,Faridabad,Peas Wet,04-03-19,900
+Haryana,Gurgaon,Peas Wet,04-03-19,1500
+Himachal Pradesh,Kangra,Peas Wet,04-03-19,1800
+Himachal Pradesh,Kangra,Peas Wet,04-03-19,1800
+Himachal Pradesh,Kullu,Peas Wet,04-03-19,2650
+Karnataka,Bangalore,Peas Wet,04-03-19,3000
+Maharashtra,Pune,Peas Wet,04-03-19,1800
+Maharashtra,Pune,Peas Wet,04-03-19,4000
+Maharashtra,Satara,Peas Wet,04-03-19,2600
+Punjab,Barnala,Peas Wet,04-03-19,1500
+Punjab,Gurdaspur,Peas Wet,04-03-19,700
+Punjab,Ludhiana,Peas Wet,04-03-19,1700
+Punjab,Patiala,Peas Wet,04-03-19,850
+Punjab,Tarntaran,Peas Wet,04-03-19,700
+Punjab,Jalandhar,Peas Wet,04-03-19,1500
+Punjab,Jalandhar,Peas Wet,04-03-19,800
+Punjab,Ludhiana,Peas Wet,04-03-19,1250
+Punjab,Ropar (Rupnagar),Peas Wet,04-03-19,1330
+Punjab,Tarntaran,Peas Wet,04-03-19,1000
+Uttar Pradesh,Agra,Peas Wet,04-03-19,800
+Uttar Pradesh,Sonbhadra,Peas Wet,04-03-19,800
+Uttar Pradesh,Agra,Peas Wet,04-03-19,780
+Uttar Pradesh,Saharanpur,Peas Wet,04-03-19,1000
+Uttrakhand,Dehradoon,Peas Wet,04-03-19,1150
+Uttar Pradesh,Mirzapur,Peas(Dry),04-03-19,4880
+Uttar Pradesh,Muradabad,Peas(Dry),04-03-19,400
+West Bengal,Burdwan,Peas(Dry),04-03-19,4600
+West Bengal,Burdwan,Peas(Dry),04-03-19,4900
+Gujarat,Bharuch,Pegeon Pea (Arhar Fali),04-03-19,3475
+Gujarat,Surat,Pegeon Pea (Arhar Fali),04-03-19,3005
+Gujarat,Surat,Pegeon Pea (Arhar Fali),04-03-19,3005
+Gujarat,Surat,Pegeon Pea (Arhar Fali),04-03-19,2850
+Gujarat,Vadodara(Baroda),Pegeon Pea (Arhar Fali),04-03-19,3000
+Kerala,Kasargod,Pepper garbled,04-03-19,32500
+Kerala,Kasargod,Pepper garbled,04-03-19,27750
+Himachal Pradesh,Kangra,Pineapple,04-03-19,2250
+Himachal Pradesh,Kangra,Pineapple,04-03-19,4000
+Maharashtra,Pune,Pineapple,04-03-19,1400
+Punjab,Muktsar,Pineapple,04-03-19,4000
+Uttar Pradesh,Muzaffarnagar,Plum,04-03-19,570
+Gujarat,Valsad,Pointed gourd (Parval),04-03-19,5250
+Haryana,Faridabad,Pomegranate,04-03-19,4500
+Haryana,Gurgaon,Pomegranate,04-03-19,4250
+Haryana,Mewat,Pomegranate,04-03-19,5000
+Himachal Pradesh,Kangra,Pomegranate,04-03-19,7500
+Himachal Pradesh,Kangra,Pomegranate,04-03-19,4250
+Himachal Pradesh,Kangra,Pomegranate,04-03-19,7500
+Maharashtra,Ahmednagar,Pomegranate,04-03-19,4000
+Maharashtra,Satara,Pomegranate,04-03-19,2500
+Punjab,Muktsar,Pomegranate,04-03-19,6500
+Rajasthan,Jalore,Pomegranate,04-03-19,1500
+Uttar Pradesh,Baghpat,Pomegranate,04-03-19,4300
+Uttar Pradesh,Bhadohi(Sant Ravi Nagar),Pomegranate,04-03-19,3800
+Uttar Pradesh,Lakhimpur,Pomegranate,04-03-19,4140
+Uttrakhand,Dehradoon,Pomegranate,04-03-19,3500
+Andaman and Nicobar,South Andaman,Potato,04-03-19,3000
+Assam,Jorhat,Potato,04-03-19,550
+Assam,Kamrup,Potato,04-03-19,700
+Assam,Darrang,Potato,04-03-19,650
+Gujarat,Kheda,Potato,04-03-19,700
+Gujarat,Vadodara(Baroda),Potato,04-03-19,700
+Haryana,Mewat,Potato,04-03-19,700
+Haryana,Faridabad,Potato,04-03-19,550
+Haryana,Gurgaon,Potato,04-03-19,650
+Haryana,Panipat,Potato,04-03-19,1000
+Haryana,Ambala,Potato,04-03-19,325
+Haryana,Kurukshetra,Potato,04-03-19,296
+Himachal Pradesh,Kangra,Potato,04-03-19,800
+Himachal Pradesh,Kangra,Potato,04-03-19,750
+Himachal Pradesh,Kangra,Potato,04-03-19,800
+Himachal Pradesh,Kullu,Potato,04-03-19,1400
+Kerala,Kottayam,Potato,04-03-19,2800
+Kerala,Ernakulam,Potato,04-03-19,2500
+Kerala,Kasargod,Potato,04-03-19,2400
+Kerala,Kollam,Potato,04-03-19,1900
+Kerala,Malappuram,Potato,04-03-19,2100
+Kerala,Thirssur,Potato,04-03-19,2600
+Kerala,Thirssur,Potato,04-03-19,2400
+Kerala,Thirssur,Potato,04-03-19,1400
+Madhya Pradesh,Sheopur,Potato,04-03-19,750
+Maharashtra,Pune,Potato,04-03-19,1100
+Maharashtra,Pune,Potato,04-03-19,850
+Maharashtra,Pune,Potato,04-03-19,1000
+Maharashtra,Satara,Potato,04-03-19,1500
+Maharashtra,Sholapur,Potato,04-03-19,1400
+Manipur,Bishnupur,Potato,04-03-19,1000
+Manipur,Chandel,Potato,04-03-19,1400
+Manipur,Imphal East,Potato,04-03-19,1000
+Manipur,Imphal West,Potato,04-03-19,1500
+Manipur,Thoubal,Potato,04-03-19,1000
+Odisha,Dhenkanal,Potato,04-03-19,900
+Odisha,Mayurbhanja,Potato,04-03-19,600
+Odisha,Angul,Potato,04-03-19,800
+Odisha,Jharsuguda,Potato,04-03-19,900
+Odisha,Sundergarh,Potato,04-03-19,1000
+Punjab,Ludhiana,Potato,04-03-19,400
+Punjab,Mansa,Potato,04-03-19,520
+Punjab,Muktsar,Potato,04-03-19,550
+Punjab,Bhatinda,Potato,04-03-19,450
+Punjab,Gurdaspur,Potato,04-03-19,370
+Punjab,Hoshiarpur,Potato,04-03-19,500
+Punjab,Jalandhar,Potato,04-03-19,500
+Punjab,Jalandhar,Potato,04-03-19,400
+Punjab,Ludhiana,Potato,04-03-19,350
+Punjab,Patiala,Potato,04-03-19,350
+Punjab,Tarntaran,Potato,04-03-19,600
+Tripura,South District,Potato,04-03-19,750
+Uttar Pradesh,Bahraich,Potato,04-03-19,675
+Uttar Pradesh,Bhadohi(Sant Ravi Nagar),Potato,04-03-19,400
+Uttar Pradesh,Bulandshahar,Potato,04-03-19,410
+Uttar Pradesh,Fatehpur,Potato,04-03-19,490
+Uttar Pradesh,Gautam Budh Nagar,Potato,04-03-19,500
+Uttar Pradesh,Lakhimpur,Potato,04-03-19,500
+Uttar Pradesh,Mirzapur,Potato,04-03-19,600
+Uttar Pradesh,Saharanpur,Potato,04-03-19,560
+Uttar Pradesh,Shahjahanpur,Potato,04-03-19,460
+Uttar Pradesh,Sonbhadra,Potato,04-03-19,660
+Uttar Pradesh,Ballia,Potato,04-03-19,1050
+Uttar Pradesh,Bulandshahar,Potato,04-03-19,440
+Uttar Pradesh,Saharanpur,Potato,04-03-19,540
+Uttar Pradesh,Agra,Potato,04-03-19,500
+Uttar Pradesh,Etah,Potato,04-03-19,500
+Uttar Pradesh,Kannuj,Potato,04-03-19,480
+Uttar Pradesh,Muzaffarnagar,Potato,04-03-19,440
+Uttar Pradesh,Bulandshahar,Potato,04-03-19,590
+Uttar Pradesh,Khiri (Lakhimpur),Potato,04-03-19,440
+Uttar Pradesh,Agra,Potato,04-03-19,530
+Uttar Pradesh,Agra,Potato,04-03-19,450
+Uttar Pradesh,Agra,Potato,04-03-19,540
+Uttar Pradesh,Agra,Potato,04-03-19,500
+Uttar Pradesh,Agra,Potato,04-03-19,530
+Uttar Pradesh,Aligarh,Potato,04-03-19,540
+Uttar Pradesh,Allahabad,Potato,04-03-19,600
+Uttar Pradesh,Etawah,Potato,04-03-19,400
+Uttar Pradesh,Farukhabad,Potato,04-03-19,430
+Uttar Pradesh,Ghaziabad,Potato,04-03-19,610
+Uttar Pradesh,Kanpur,Potato,04-03-19,900
+Uttar Pradesh,Muradabad,Potato,04-03-19,460
+Uttar Pradesh,Muzaffarnagar,Potato,04-03-19,615
+Uttar Pradesh,Raebarelli,Potato,04-03-19,500
+Uttar Pradesh,Rampur,Potato,04-03-19,495
+Uttar Pradesh,Saharanpur,Potato,04-03-19,280
+Uttar Pradesh,Saharanpur,Potato,04-03-19,545
+Uttar Pradesh,Saharanpur,Potato,04-03-19,500
+Uttar Pradesh,Sitapur,Potato,04-03-19,600
+Uttar Pradesh,Baghpat,Potato,04-03-19,650
+Uttar Pradesh,Baghpat,Potato,04-03-19,600
+Uttrakhand,Dehradoon,Potato,04-03-19,550
+Uttrakhand,UdhamSinghNagar,Potato,04-03-19,600
+West Bengal,Hooghly,Potato,04-03-19,480
+West Bengal,Nadia,Potato,04-03-19,580
+West Bengal,North 24 Parganas,Potato,04-03-19,560
+West Bengal,Puruliya,Potato,04-03-19,380
+West Bengal,Bankura,Potato,04-03-19,380
+West Bengal,Bankura,Potato,04-03-19,370
+West Bengal,Burdwan,Potato,04-03-19,560
+West Bengal,Burdwan,Potato,04-03-19,600
+West Bengal,Burdwan,Potato,04-03-19,500
+West Bengal,Burdwan,Potato,04-03-19,510
+West Bengal,Burdwan,Potato,04-03-19,500
+West Bengal,Jalpaiguri,Potato,04-03-19,525
+West Bengal,Malda,Potato,04-03-19,475
+West Bengal,Medinipur(W),Potato,04-03-19,350
+West Bengal,Murshidabad,Potato,04-03-19,400
+West Bengal,Murshidabad,Potato,04-03-19,530
+West Bengal,Puruliya,Potato,04-03-19,420
+West Bengal,Sounth 24 Parganas,Potato,04-03-19,700
+West Bengal,Uttar Dinajpur,Potato,04-03-19,550
+Assam,Darrang,Pumpkin,04-03-19,650
+Assam,Kamrup,Pumpkin,04-03-19,900
+Gujarat,Vadodara(Baroda),Pumpkin,04-03-19,950
+Himachal Pradesh,Kangra,Pumpkin,04-03-19,1700
+Himachal Pradesh,Kullu,Pumpkin,04-03-19,1750
+Kerala,Kasargod,Pumpkin,04-03-19,2700
+Kerala,Kottayam,Pumpkin,04-03-19,1100
+Kerala,Thiruvananthapuram,Pumpkin,04-03-19,1700
+Kerala,Kasargod,Pumpkin,04-03-19,850
+Kerala,Kollam,Pumpkin,04-03-19,1100
+Kerala,Malappuram,Pumpkin,04-03-19,1300
+Kerala,Thirssur,Pumpkin,04-03-19,1700
+Kerala,Thirssur,Pumpkin,04-03-19,3000
+Kerala,Thirssur,Pumpkin,04-03-19,1100
+Maharashtra,Pune,Pumpkin,04-03-19,1500
+Meghalaya,East Khasi Hills,Pumpkin,04-03-19,1850
+Odisha,Dhenkanal,Pumpkin,04-03-19,1300
+Odisha,Mayurbhanja,Pumpkin,04-03-19,1100
+Uttar Pradesh,Agra,Pumpkin,04-03-19,540
+Uttar Pradesh,Agra,Pumpkin,04-03-19,850
+Uttar Pradesh,Agra,Pumpkin,04-03-19,1150
+Uttar Pradesh,Agra,Pumpkin,04-03-19,520
+Uttar Pradesh,Agra,Pumpkin,04-03-19,1150
+Uttar Pradesh,Aligarh,Pumpkin,04-03-19,740
+Uttar Pradesh,Baghpat,Pumpkin,04-03-19,500
+Uttar Pradesh,Bulandshahar,Pumpkin,04-03-19,690
+Uttar Pradesh,Etawah,Pumpkin,04-03-19,550
+Uttar Pradesh,Khiri (Lakhimpur),Pumpkin,04-03-19,350
+Uttar Pradesh,Lakhimpur,Pumpkin,04-03-19,1120
+Uttar Pradesh,Muzaffarnagar,Pumpkin,04-03-19,800
+Uttar Pradesh,Muzaffarnagar,Pumpkin,04-03-19,400
+Uttar Pradesh,Muzaffarnagar,Pumpkin,04-03-19,470
+Uttar Pradesh,Saharanpur,Pumpkin,04-03-19,650
+Uttar Pradesh,Saharanpur,Pumpkin,04-03-19,400
+Uttar Pradesh,Kanpur,Pumpkin,04-03-19,1400
+Uttrakhand,Dehradoon,Pumpkin,04-03-19,450
+West Bengal,North 24 Parganas,Pumpkin,04-03-19,1500
+West Bengal,Puruliya,Pumpkin,04-03-19,900
+Assam,Darrang,Raddish,04-03-19,850
+Assam,Kamrup,Raddish,04-03-19,1100
+Gujarat,Vadodara(Baroda),Raddish,04-03-19,850
+Haryana,Ambala,Raddish,04-03-19,600
+Haryana,Faridabad,Raddish,04-03-19,900
+Haryana,Gurgaon,Raddish,04-03-19,750
+Haryana,Mewat,Raddish,04-03-19,800
+Himachal Pradesh,Kangra,Raddish,04-03-19,600
+Himachal Pradesh,Kangra,Raddish,04-03-19,800
+Himachal Pradesh,Kangra,Raddish,04-03-19,550
+Himachal Pradesh,Kullu,Raddish,04-03-19,700
+Karnataka,Bangalore,Raddish,04-03-19,1800
+Karnataka,Kolar,Raddish,04-03-19,400
+Maharashtra,Pune,Raddish,04-03-19,12
+Maharashtra,Pune,Raddish,04-03-19,8
+Maharashtra,Pune,Raddish,04-03-19,8
+Maharashtra,Pune,Raddish,04-03-19,10
+Punjab,Barnala,Raddish,04-03-19,300
+Punjab,Gurdaspur,Raddish,04-03-19,420
+Punjab,Ludhiana,Raddish,04-03-19,250
+Punjab,Muktsar,Raddish,04-03-19,500
+Punjab,Tarntaran,Raddish,04-03-19,400
+Punjab,Hoshiarpur,Raddish,04-03-19,600
+Punjab,Jalandhar,Raddish,04-03-19,400
+Punjab,Jalandhar,Raddish,04-03-19,300
+Punjab,Jalandhar,Raddish,04-03-19,500
+Punjab,Ropar (Rupnagar),Raddish,04-03-19,550
+Punjab,Tarntaran,Raddish,04-03-19,350
+Uttar Pradesh,Agra,Raddish,04-03-19,650
+Uttar Pradesh,Agra,Raddish,04-03-19,450
+Uttar Pradesh,Agra,Raddish,04-03-19,600
+Uttar Pradesh,Agra,Raddish,04-03-19,350
+Uttar Pradesh,Agra,Raddish,04-03-19,650
+Uttar Pradesh,Agra,Raddish,04-03-19,500
+Uttar Pradesh,Aligarh,Raddish,04-03-19,290
+Uttar Pradesh,Baghpat,Raddish,04-03-19,350
+Uttar Pradesh,Baghpat,Raddish,04-03-19,500
+Uttar Pradesh,Etawah,Raddish,04-03-19,500
+Uttar Pradesh,Ghaziabad,Raddish,04-03-19,280
+Uttar Pradesh,Muzaffarnagar,Raddish,04-03-19,330
+Uttar Pradesh,Muzaffarnagar,Raddish,04-03-19,260
+Uttar Pradesh,Saharanpur,Raddish,04-03-19,420
+Uttar Pradesh,Saharanpur,Raddish,04-03-19,295
+Uttar Pradesh,Saharanpur,Raddish,04-03-19,400
+Uttar Pradesh,Shahjahanpur,Raddish,04-03-19,320
+Uttar Pradesh,Sonbhadra,Raddish,04-03-19,600
+Uttar Pradesh,Bulandshahar,Raddish,04-03-19,220
+Uttar Pradesh,Kanpur,Raddish,04-03-19,900
+Uttar Pradesh,Saharanpur,Raddish,04-03-19,360
+Uttrakhand,Dehradoon,Raddish,04-03-19,300
+Tamil Nadu,Vellore,Ragi (Finger Millet),04-03-19,2640
+Tamil Nadu,Villupuram,Ragi (Finger Millet),04-03-19,2420
+Tamil Nadu,Villupuram,Ragi (Finger Millet),04-03-19,2599
+Tamil Nadu,Villupuram,Ragi (Finger Millet),04-03-19,2312
+Tamil Nadu,Villupuram,Ragi (Finger Millet),04-03-19,1180
+Tamil Nadu,Villupuram,Ragi (Finger Millet),04-03-19,2400
+Tamil Nadu,Villupuram,Ragi (Finger Millet),04-03-19,2579
+Maharashtra,Pune,Rajgir,04-03-19,4
+Maharashtra,Pune,Rajgir,04-03-19,3
+Assam,Dhubri,Rice,04-03-19,2500
+Assam,Cachar,Rice,04-03-19,2800
+Assam,Dhubri,Rice,04-03-19,4500
+Assam,Sonitpur,Rice,04-03-19,2800
+Assam,Cachar,Rice,04-03-19,2400
+Assam,Jorhat,Rice,04-03-19,3200
+Assam,Sonitpur,Rice,04-03-19,2400
+Manipur,Bishnupur,Rice,04-03-19,3700
+Manipur,Chandel,Rice,04-03-19,3500
+Manipur,Imphal East,Rice,04-03-19,4100
+Manipur,Imphal West,Rice,04-03-19,3800
+Manipur,Thoubal,Rice,04-03-19,3900
+Odisha,Mayurbhanja,Rice,04-03-19,2200
+Odisha,Sundergarh,Rice,04-03-19,3000
+Tripura,North Tripura,Rice,04-03-19,2600
+Uttar Pradesh,Agra,Rice,04-03-19,2300
+Uttar Pradesh,Agra,Rice,04-03-19,2540
+Uttar Pradesh,Agra,Rice,04-03-19,2540
+Uttar Pradesh,Agra,Rice,04-03-19,2540
+Uttar Pradesh,Bahraich,Rice,04-03-19,2150
+Uttar Pradesh,Ballia,Rice,04-03-19,2100
+Uttar Pradesh,Ghaziabad,Rice,04-03-19,2670
+Uttar Pradesh,Kannuj,Rice,04-03-19,2500
+Uttar Pradesh,Muzaffarnagar,Rice,04-03-19,2700
+Uttar Pradesh,Sonbhadra,Rice,04-03-19,2240
+Uttar Pradesh,Muzaffarnagar,Rice,04-03-19,3900
+Uttar Pradesh,Lakhimpur,Rice,04-03-19,2250
+Uttar Pradesh,Mirzapur,Rice,04-03-19,2320
+Uttar Pradesh,Chitrakut,Rice,04-03-19,1775
+Uttar Pradesh,Mau(Maunathbhanjan),Rice,04-03-19,2000
+West Bengal,Sounth 24 Parganas,Rice,04-03-19,4400
+West Bengal,Hooghly,Rice,04-03-19,2850
+West Bengal,Burdwan,Rice,04-03-19,2250
+West Bengal,Burdwan,Rice,04-03-19,2300
+West Bengal,Murshidabad,Rice,04-03-19,2700
+West Bengal,Puruliya,Rice,04-03-19,2640
+West Bengal,Puruliya,Rice,04-03-19,2600
+West Bengal,Uttar Dinajpur,Rice,04-03-19,3600
+West Bengal,Uttar Dinajpur,Rice,04-03-19,3500
+West Bengal,Medinipur(W),Rice,04-03-19,2400
+West Bengal,Malda,Rice,04-03-19,2700
+West Bengal,Bankura,Rice,04-03-19,2850
+West Bengal,Burdwan,Rice,04-03-19,3000
+West Bengal,Burdwan,Rice,04-03-19,2300
+West Bengal,Burdwan,Rice,04-03-19,3000
+West Bengal,Malda,Rice,04-03-19,3200
+West Bengal,Medinipur(W),Rice,04-03-19,2550
+West Bengal,Murshidabad,Rice,04-03-19,2900
+West Bengal,Nadia,Rice,04-03-19,3800
+West Bengal,Bankura,Rice,04-03-19,2650
+West Bengal,Bankura,Rice,04-03-19,2650
+West Bengal,Burdwan,Rice,04-03-19,2300
+West Bengal,Sounth 24 Parganas,Rice,04-03-19,2800
+Assam,Kamrup,Ridgeguard(Tori),04-03-19,4100
+Gujarat,Surat,Ridgeguard(Tori),04-03-19,2750
+Karnataka,Bangalore,Ridgeguard(Tori),04-03-19,3600
+Karnataka,Kolar,Ridgeguard(Tori),04-03-19,3800
+Kerala,Kasargod,Ridgeguard(Tori),04-03-19,5000
+Maharashtra,Pune,Ridgeguard(Tori),04-03-19,3000
+Maharashtra,Pune,Ridgeguard(Tori),04-03-19,6000
+Maharashtra,Satara,Ridgeguard(Tori),04-03-19,3800
+Maharashtra,Sholapur,Ridgeguard(Tori),04-03-19,2900
+West Bengal,Puruliya,Ridgeguard(Tori),04-03-19,3300
+Gujarat,Surat,Round gourd,04-03-19,1400
+Kerala,Kannur,Rubber,04-03-19,12350
+Karnataka,Bangalore,Seemebadnekai,04-03-19,1500
+Pondicherry,Karaikal,"Sesamum(Sesame,Gingelly,Til)",04-03-19,10000
+Tamil Nadu,Erode,"Sesamum(Sesame,Gingelly,Til)",04-03-19,11681
+Tamil Nadu,Villupuram,"Sesamum(Sesame,Gingelly,Til)",04-03-19,9350
+Tamil Nadu,Villupuram,"Sesamum(Sesame,Gingelly,Til)",04-03-19,10181
+Tamil Nadu,Villupuram,"Sesamum(Sesame,Gingelly,Til)",04-03-19,9391
+Tamil Nadu,Villupuram,"Sesamum(Sesame,Gingelly,Til)",04-03-19,11261
+Tamil Nadu,Villupuram,"Sesamum(Sesame,Gingelly,Til)",04-03-19,10049
+Tamil Nadu,Erode,"Sesamum(Sesame,Gingelly,Til)",04-03-19,14509
+Tamil Nadu,Madurai,"Sesamum(Sesame,Gingelly,Til)",04-03-19,7100
+Tamil Nadu,Villupuram,"Sesamum(Sesame,Gingelly,Til)",04-03-19,11124
+Tamil Nadu,Villupuram,"Sesamum(Sesame,Gingelly,Til)",04-03-19,11049
+West Bengal,Medinipur(W),"Sesamum(Sesame,Gingelly,Til)",04-03-19,8600
+West Bengal,Burdwan,"Sesamum(Sesame,Gingelly,Til)",04-03-19,7000
+West Bengal,Burdwan,"Sesamum(Sesame,Gingelly,Til)",04-03-19,7100
+Karnataka,Bangalore,Snakeguard,04-03-19,1400
+Kerala,Kasargod,Snakeguard,04-03-19,3600
+Kerala,Kottayam,Snakeguard,04-03-19,1900
+Kerala,Thiruvananthapuram,Snakeguard,04-03-19,2600
+Kerala,Kollam,Snakeguard,04-03-19,2300
+Kerala,Kollam,Snakeguard,04-03-19,1800
+Kerala,Malappuram,Snakeguard,04-03-19,1700
+Kerala,Thirssur,Snakeguard,04-03-19,1900
+Maharashtra,Pune,Snakeguard,04-03-19,1700
+Madhya Pradesh,Dhar,Soyabean,04-03-19,3200
+Madhya Pradesh,Dindori,Soyabean,04-03-19,3350
+Rajasthan,Jhalawar,Soyabean,04-03-19,3525
+Rajasthan,Kota,Soyabean,04-03-19,3615
+Gujarat,Vadodara(Baroda),Spinach,04-03-19,475
+Haryana,Ambala,Spinach,04-03-19,715
+Haryana,Gurgaon,Spinach,04-03-19,750
+Himachal Pradesh,Kangra,Spinach,04-03-19,1700
+Himachal Pradesh,Kangra,Spinach,04-03-19,1500
+Himachal Pradesh,Kangra,Spinach,04-03-19,950
+Himachal Pradesh,Kullu,Spinach,04-03-19,900
+Madhya Pradesh,Jhabua,Spinach,04-03-19,1300
+Madhya Pradesh,Badwani,Spinach,04-03-19,700
+Maharashtra,Pune,Spinach,04-03-19,4
+Maharashtra,Pune,Spinach,04-03-19,3
+Maharashtra,Pune,Spinach,04-03-19,4
+Maharashtra,Pune,Spinach,04-03-19,9
+Maharashtra,Satara,Spinach,04-03-19,2
+Punjab,Ludhiana,Spinach,04-03-19,800
+Punjab,Muktsar,Spinach,04-03-19,600
+Punjab,Hoshiarpur,Spinach,04-03-19,700
+Punjab,Jalandhar,Spinach,04-03-19,900
+Punjab,Jalandhar,Spinach,04-03-19,300
+Punjab,Jalandhar,Spinach,04-03-19,600
+Punjab,Tarntaran,Spinach,04-03-19,400
+Uttar Pradesh,Agra,Spinach,04-03-19,650
+Gujarat,Bharuch,Sponge gourd,04-03-19,1500
+Gujarat,Vadodara(Baroda),Sponge gourd,04-03-19,1950
+Himachal Pradesh,Kullu,Squash(Chappal Kadoo),04-03-19,1900
+Punjab,Tarntaran,Squash(Chappal Kadoo),04-03-19,1400
+Odisha,Sundergarh,Sugar,04-03-19,4000
+Uttar Pradesh,Ghaziabad,Sugar,04-03-19,3380
+Uttar Pradesh,Lakhimpur,Sugar,04-03-19,3440
+Gujarat,Bharuch,Surat Beans (Papadi),04-03-19,2450
+Gujarat,Surat,Surat Beans (Papadi),04-03-19,3147
+Gujarat,Surat,Surat Beans (Papadi),04-03-19,3147
+Gujarat,Vadodara(Baroda),Surat Beans (Papadi),04-03-19,2500
+Karnataka,Bangalore,Suvarna Gadde,04-03-19,2500
+Gujarat,Bharuch,Sweet Potato,04-03-19,2900
+Gujarat,Kheda,Sweet Potato,04-03-19,1450
+Gujarat,Vadodara(Baroda),Sweet Potato,04-03-19,1700
+Kerala,Kasargod,Sweet Potato,04-03-19,3000
+Kerala,Thirssur,Sweet Potato,04-03-19,2200
+Maharashtra,Pune,Sweet Potato,04-03-19,1500
+Maharashtra,Satara,Sweet Potato,04-03-19,1800
+Uttar Pradesh,Saharanpur,Sweet Potato,04-03-19,1145
+Maharashtra,Pune,Sweet Pumpkin,04-03-19,1000
+West Bengal,Bankura,Sweet Pumpkin,04-03-19,900
+West Bengal,Burdwan,Sweet Pumpkin,04-03-19,1000
+West Bengal,Jalpaiguri,Sweet Pumpkin,04-03-19,1200
+West Bengal,Nadia,Sweet Pumpkin,04-03-19,1400
+West Bengal,Sounth 24 Parganas,Sweet Pumpkin,04-03-19,1500
+West Bengal,Burdwan,Sweet Pumpkin,04-03-19,910
+West Bengal,Burdwan,Sweet Pumpkin,04-03-19,1100
+Tamil Nadu,Villupuram,T.V. Cumbu,04-03-19,1851
+Tamil Nadu,Villupuram,T.V. Cumbu,04-03-19,2029
+Tamil Nadu,Villupuram,T.V. Cumbu,04-03-19,1969
+Tamil Nadu,Vellore,Tamarind Fruit,04-03-19,10100
+Tamil Nadu,Dharmapuri,Tamarind Fruit,04-03-19,6000
+Tamil Nadu,Dharmapuri,Tamarind Fruit,04-03-19,5900
+Kerala,Kottayam,Tapioca,04-03-19,2500
+Kerala,Kasargod,Tapioca,04-03-19,2900
+Kerala,Kollam,Tapioca,04-03-19,2450
+Kerala,Thirssur,Tapioca,04-03-19,2500
+Kerala,Thirssur,Tapioca,04-03-19,4000
+Kerala,Thirssur,Tapioca,04-03-19,2000
+Tamil Nadu,Salem,Tapioca,04-03-19,220
+Rajasthan,Tonk,Taramira,04-03-19,3256
+Maharashtra,Pune,Tender Coconut,04-03-19,400
+Tamil Nadu,Villupuram,Thinai (Italian Millet),04-03-19,1205
+Gujarat,Bharuch,Tinda,04-03-19,3150
+Gujarat,Valsad,Tinda,04-03-19,2875
+Haryana,Gurgaon,Tinda,04-03-19,1550
+Tamil Nadu,Coimbatore,Tobacco,04-03-19,3100
+Uttar Pradesh,Etah,Tobacco,04-03-19,1900
+Andhra Pradesh,Chittor,Tomato,04-03-19,620
+Andhra Pradesh,Chittor,Tomato,04-03-19,300
+Andhra Pradesh,Chittor,Tomato,04-03-19,760
+Assam,Kamrup,Tomato,04-03-19,1450
+Assam,Darrang,Tomato,04-03-19,1150
+Gujarat,Bharuch,Tomato,04-03-19,1425
+Gujarat,Surat,Tomato,04-03-19,1300
+Gujarat,Surat,Tomato,04-03-19,1387
+Gujarat,Surat,Tomato,04-03-19,1387
+Gujarat,Surat,Tomato,04-03-19,1300
+Gujarat,Vadodara(Baroda),Tomato,04-03-19,1350
+Haryana,Mewat,Tomato,04-03-19,1500
+Haryana,Faridabad,Tomato,04-03-19,1750
+Haryana,Gurgaon,Tomato,04-03-19,1500
+Haryana,Panipat,Tomato,04-03-19,1500
+Himachal Pradesh,Kangra,Tomato,04-03-19,2000
+Himachal Pradesh,Kangra,Tomato,04-03-19,2200
+Himachal Pradesh,Kangra,Tomato,04-03-19,2350
+Himachal Pradesh,Kullu,Tomato,04-03-19,2550
+Karnataka,Bangalore,Tomato,04-03-19,900
+Karnataka,Kolar,Tomato,04-03-19,667
+Karnataka,Kolar,Tomato,04-03-19,1000
+Kerala,Kasargod,Tomato,04-03-19,1800
+Kerala,Kottayam,Tomato,04-03-19,2200
+Kerala,Ernakulam,Tomato,04-03-19,1800
+Kerala,Kollam,Tomato,04-03-19,3500
+Kerala,Malappuram,Tomato,04-03-19,1100
+Kerala,Thirssur,Tomato,04-03-19,2100
+Kerala,Thirssur,Tomato,04-03-19,2000
+Kerala,Thirssur,Tomato,04-03-19,1600
+Madhya Pradesh,Badwani,Tomato,04-03-19,800
+Madhya Pradesh,Sheopur,Tomato,04-03-19,550
+Madhya Pradesh,Jhabua,Tomato,04-03-19,1550
+Madhya Pradesh,Khandwa,Tomato,04-03-19,1300
+Maharashtra,Kolhapur,Tomato,04-03-19,1350
+Maharashtra,Kolhapur,Tomato,04-03-19,200
+Maharashtra,Pune,Tomato,04-03-19,1400
+Maharashtra,Satara,Tomato,04-03-19,1000
+Maharashtra,Sholapur,Tomato,04-03-19,1000
+Maharashtra,Pune,Tomato,04-03-19,1000
+Maharashtra,Pune,Tomato,04-03-19,1000
+Maharashtra,Pune,Tomato,04-03-19,1200
+Odisha,Dhenkanal,Tomato,04-03-19,800
+Odisha,Mayurbhanja,Tomato,04-03-19,800
+Odisha,Mayurbhanja,Tomato,04-03-19,800
+Odisha,Balasore,Tomato,04-03-19,700
+Odisha,Balasore,Tomato,04-03-19,600
+Odisha,Gajapati,Tomato,04-03-19,1200
+Odisha,Sundergarh,Tomato,04-03-19,1000
+Odisha,Sundergarh,Tomato,04-03-19,900
+Punjab,Ludhiana,Tomato,04-03-19,2000
+Punjab,Mansa,Tomato,04-03-19,2200
+Punjab,Muktsar,Tomato,04-03-19,2000
+Punjab,Hoshiarpur,Tomato,04-03-19,2000
+Punjab,Jalandhar,Tomato,04-03-19,2500
+Punjab,Jalandhar,Tomato,04-03-19,1400
+Punjab,Ludhiana,Tomato,04-03-19,1500
+Punjab,Tarntaran,Tomato,04-03-19,1500
+Punjab,Patiala,Tomato,04-03-19,1200
+Punjab,Ropar (Rupnagar),Tomato,04-03-19,1500
+Rajasthan,Jalore,Tomato,04-03-19,1500
+Telangana,Ranga Reddy,Tomato,04-03-19,300
+Uttar Pradesh,Agra,Tomato,04-03-19,840
+Uttar Pradesh,Lakhimpur,Tomato,04-03-19,690
+Uttar Pradesh,Mirzapur,Tomato,04-03-19,500
+Uttar Pradesh,Muzaffarnagar,Tomato,04-03-19,1070
+Uttar Pradesh,Saharanpur,Tomato,04-03-19,1120
+Uttar Pradesh,Saharanpur,Tomato,04-03-19,1000
+Uttar Pradesh,Shahjahanpur,Tomato,04-03-19,700
+Uttar Pradesh,Bulandshahar,Tomato,04-03-19,710
+Uttar Pradesh,Bulandshahar,Tomato,04-03-19,860
+Uttar Pradesh,Gautam Budh Nagar,Tomato,04-03-19,700
+Uttar Pradesh,Khiri (Lakhimpur),Tomato,04-03-19,850
+Uttar Pradesh,Muzaffarnagar,Tomato,04-03-19,900
+Uttar Pradesh,Agra,Tomato,04-03-19,500
+Uttar Pradesh,Aligarh,Tomato,04-03-19,990
+Uttar Pradesh,Etawah,Tomato,04-03-19,700
+Uttar Pradesh,Sonbhadra,Tomato,04-03-19,475
+Uttar Pradesh,Agra,Tomato,04-03-19,450
+Uttar Pradesh,Agra,Tomato,04-03-19,950
+Uttar Pradesh,Agra,Tomato,04-03-19,850
+Uttar Pradesh,Baghpat,Tomato,04-03-19,1200
+Uttar Pradesh,Baghpat,Tomato,04-03-19,850
+Uttar Pradesh,Bahraich,Tomato,04-03-19,450
+Uttar Pradesh,Bahraich,Tomato,04-03-19,700
+Uttar Pradesh,Bulandshahar,Tomato,04-03-19,690
+Uttar Pradesh,Etah,Tomato,04-03-19,700
+Uttar Pradesh,Ghaziabad,Tomato,04-03-19,970
+Uttar Pradesh,Kannuj,Tomato,04-03-19,780
+Uttar Pradesh,Kanpur,Tomato,04-03-19,900
+Uttar Pradesh,Muradabad,Tomato,04-03-19,450
+Uttar Pradesh,Saharanpur,Tomato,04-03-19,500
+Uttar Pradesh,Saharanpur,Tomato,04-03-19,1340
+Uttrakhand,Dehradoon,Tomato,04-03-19,500
+West Bengal,Bankura,Tomato,04-03-19,500
+West Bengal,Sounth 24 Parganas,Tomato,04-03-19,1300
+West Bengal,Burdwan,Tomato,04-03-19,800
+West Bengal,Burdwan,Tomato,04-03-19,1050
+West Bengal,Jalpaiguri,Tomato,04-03-19,900
+West Bengal,North 24 Parganas,Tomato,04-03-19,1400
+West Bengal,Puruliya,Tomato,04-03-19,300
+West Bengal,Puruliya,Tomato,04-03-19,900
+West Bengal,Burdwan,Tomato,04-03-19,560
+Maharashtra,Nanded,Turmeric,04-03-19,5200
+Tamil Nadu,Namakkal,Turmeric,04-03-19,6800
+Tamil Nadu,Namakkal,Turmeric,04-03-19,8000
+Tamil Nadu,Salem,Turmeric,04-03-19,7120
+Tamil Nadu,Coimbatore,Turmeric,04-03-19,6300
+Tamil Nadu,Namakkal,Turmeric,04-03-19,5740
+Tamil Nadu,Namakkal,Turmeric,04-03-19,6950
+West Bengal,Murshidabad,Turmeric,04-03-19,7325
+Kerala,Kollam,Turmeric (raw),04-03-19,2100
+Manipur,Thoubal,Turmeric (raw),04-03-19,2500
+Nagaland,Mokokchung,Turmeric (raw),04-03-19,1700
+Himachal Pradesh,Kangra,Turnip,04-03-19,1200
+Punjab,Gurdaspur,Turnip,04-03-19,700
+Punjab,Jalandhar,Turnip,04-03-19,400
+Karnataka,Bangalore,Water Melon,04-03-19,1400
+Maharashtra,Pune,Water Melon,04-03-19,400
+Maharashtra,Pune,Water Melon,04-03-19,800
+Maharashtra,Satara,Water Melon,04-03-19,700
+Odisha,Gajapati,Water Melon,04-03-19,3000
+Gujarat,Panchmahals,Wheat,04-03-19,1900
+Madhya Pradesh,Dhar,Wheat,04-03-19,2000
+Madhya Pradesh,Jhabua,Wheat,04-03-19,1915
+Maharashtra,Nagpur,Wheat,04-03-19,2000
+Maharashtra,Nanded,Wheat,04-03-19,1900
+Odisha,Sundergarh,Wheat,04-03-19,3000
+Rajasthan,Chittorgarh,Wheat,04-03-19,1750
+Rajasthan,Jhalawar,Wheat,04-03-19,1975
+Rajasthan,Kota,Wheat,04-03-19,1915
+Rajasthan,Tonk,Wheat,04-03-19,1878
+Uttar Pradesh,Baghpat,Wheat,04-03-19,1850
+Uttar Pradesh,Muzaffarnagar,Wheat,04-03-19,1900
+Uttar Pradesh,Rampur,Wheat,04-03-19,1905
+Uttar Pradesh,Sitapur,Wheat,04-03-19,1750
+Uttar Pradesh,Agra,Wheat,04-03-19,1930
+Uttar Pradesh,Agra,Wheat,04-03-19,1880
+Uttar Pradesh,Agra,Wheat,04-03-19,1930
+Uttar Pradesh,Agra,Wheat,04-03-19,1830
+Uttar Pradesh,Agra,Wheat,04-03-19,1925
+Uttar Pradesh,Agra,Wheat,04-03-19,2000
+Uttar Pradesh,Bahraich,Wheat,04-03-19,1800
+Uttar Pradesh,Bulandshahar,Wheat,04-03-19,1735
+Uttar Pradesh,Etah,Wheat,04-03-19,1900
+Uttar Pradesh,Farukhabad,Wheat,04-03-19,1870
+Uttar Pradesh,Fatehpur,Wheat,04-03-19,1950
+Uttar Pradesh,Ghaziabad,Wheat,04-03-19,1980
+Uttar Pradesh,Jalaun (Orai),Wheat,04-03-19,1980
+Uttar Pradesh,Jhansi,Wheat,04-03-19,1825
+Uttar Pradesh,Kannuj,Wheat,04-03-19,2040
+Uttar Pradesh,Kanpur,Wheat,04-03-19,1800
+Uttar Pradesh,Lakhimpur,Wheat,04-03-19,1845
+Uttar Pradesh,Mau(Maunathbhanjan),Wheat,04-03-19,1735
+Uttar Pradesh,Mirzapur,Wheat,04-03-19,1950
+Uttar Pradesh,Muzaffarnagar,Wheat,04-03-19,1965
+Uttar Pradesh,Saharanpur,Wheat,04-03-19,1760
+Uttar Pradesh,Saharanpur,Wheat,04-03-19,1900
+Uttar Pradesh,Sonbhadra,Wheat,04-03-19,1910
+Uttar Pradesh,Chitrakut,Wheat,04-03-19,1925
+Uttar Pradesh,Jalaun (Orai),Wheat,04-03-19,1775
+Uttar Pradesh,Mahoba,Wheat,04-03-19,1825
+West Bengal,Bankura,Wheat,04-03-19,1700
+West Bengal,Bankura,Wheat,04-03-19,1700
+West Bengal,Murshidabad,Wheat,04-03-19,2000
+West Bengal,Burdwan,Wheat,04-03-19,2000
+West Bengal,Uttar Dinajpur,Wheat,04-03-19,2100
+Assam,Dhubri,Wheat Atta,04-03-19,2300
+Assam,Jorhat,Wheat Atta,04-03-19,2800
+Odisha,Sundergarh,Wheat Atta,04-03-19,3500
+Uttar Pradesh,Khiri (Lakhimpur),White Pumpkin,04-03-19,310
+Telangana,Khammam,Wood,04-03-19,440
+Uttar Pradesh,Muzaffarnagar,Wood,04-03-19,295
+Uttar Pradesh,Saharanpur,Wood,04-03-19,280
+Uttar Pradesh,Saharanpur,Wood,04-03-19,450
+Uttar Pradesh,Sitapur,Wood,04-03-19,240
+Uttar Pradesh,Kanpur,Wood,04-03-19,500
+Uttar Pradesh,Saharanpur,Wood,04-03-19,440
